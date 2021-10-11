@@ -7,7 +7,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'canninghill-piers',
+    title: 'Canninghill Piers',
     htmlAttrs: {
       lang: 'en'
     },
@@ -19,7 +19,15 @@ export default {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
-    ]
+    ],
+    script: [
+      { src: 'https://smtpjs.com/v3/smtp.js' },
+      {
+        src: 'https://code.jquery.com/jquery-3.6.0.min.js',
+        integrity: 'sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=',
+        crossorigin: 'anonymous',
+      },
+    ],
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
@@ -39,13 +47,20 @@ export default {
     '@nuxtjs/eslint-module',
     // https://go.nuxtjs.dev/tailwindcss
     '@nuxtjs/tailwindcss',
+    '@nuxtjs/dotenv',
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
+    'nuxt-flatpickr',
   ],
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
+    html: {
+      minify: {
+        removeRedundantAttributes: false,
+      },
+    },
   }
 }

@@ -1337,6 +1337,14 @@
     webpack-node-externals "^3.0.0"
     webpackbar "^4.0.0"
 
+"@nuxtjs/dotenv@^1.4.1":
+  version "1.4.1"
+  resolved "https://registry.yarnpkg.com/@nuxtjs/dotenv/-/dotenv-1.4.1.tgz#dd5abb98e22cc7ae27139d3aa606151034293128"
+  integrity sha512-DpdObsvRwC8d89I9mzz6pBg6e/PEXHazDM57DOI1mmML2ZjHfQ/DvkjlSzUL7T+TnW3b/a4Ks5wQx08DqFBmeQ==
+  dependencies:
+    consola "^2.10.1"
+    dotenv "^8.1.0"
+
 "@nuxtjs/eslint-config@^6.0.1":
   version "6.0.1"
   resolved "https://registry.yarnpkg.com/@nuxtjs/eslint-config/-/eslint-config-6.0.1.tgz#305450a71e362c26f99b3a7130be960015a96c9b"
@@ -1390,6 +1398,21 @@
   version "1.0.0-next.21"
   resolved "https://registry.yarnpkg.com/@polka/url/-/url-1.0.0-next.21.tgz#5de5a2385a35309427f6011992b544514d559aa1"
   integrity sha512-a5Sab1C4/icpTZVzZc5Ghpz88yQtGOyNqYXcZgOssB2uuAr+wF/MvN6bgtW32q7HHrvBki+BsZ0OuNv6EV3K9g==
+
+"@tailwindcss/aspect-ratio@^0.2.1":
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/@tailwindcss/aspect-ratio/-/aspect-ratio-0.2.2.tgz#68819ac65bc91c1833fec1f4af5cc3bfb3f25922"
+  integrity sha512-yjvYH1qKQapYUVz0rCRAQ29KlKuiDsWJF/0d24lpTPWtTKBimcKWHiAMjZOILbnRd25PogILsbOyFFVOjFd6Ow==
+
+"@tailwindcss/typography@^0.4.1":
+  version "0.4.1"
+  resolved "https://registry.yarnpkg.com/@tailwindcss/typography/-/typography-0.4.1.tgz#51ddbceea6a0ee9902c649dbe58871c81a831212"
+  integrity sha512-ovPPLUhs7zAIJfr0y1dbGlyCuPhpuv/jpBoFgqAc658DWGGrOBWBMpAWLw2KlzbNeVk4YBJMzue1ekvIbdw6XA==
+  dependencies:
+    lodash.castarray "^4.4.0"
+    lodash.isplainobject "^4.0.6"
+    lodash.merge "^4.6.2"
+    lodash.uniq "^4.5.0"
 
 "@types/eslint@^7.2.6":
   version "7.28.1"
@@ -1820,6 +1843,11 @@ acorn@^8.0.4:
   version "8.5.0"
   resolved "https://registry.yarnpkg.com/acorn/-/acorn-8.5.0.tgz#4512ccb99b3698c752591e9bb4472e38ad43cee2"
   integrity sha512-yXbYeFy+jUuYd3/CDcg2NkIYE991XYX/bje7LmjJigUciaeO1JR4XxXgCIV1/Zc/dRuFEyw1L0pbA+qynJkW5Q==
+
+add@^2.0.6:
+  version "2.0.6"
+  resolved "https://registry.yarnpkg.com/add/-/add-2.0.6.tgz#248f0a9f6e5a528ef2295dbeec30532130ae2235"
+  integrity sha1-JI8Kn25aUo7yKV2+7DBTITCuIjU=
 
 aggregate-error@^3.0.0:
   version "3.1.0"
@@ -2821,7 +2849,7 @@ connect@^3.7.0:
     parseurl "~1.3.3"
     utils-merge "1.0.1"
 
-consola@^2.10.0, consola@^2.15.0, consola@^2.15.3, consola@^2.6.0, consola@^2.9.0:
+consola@^2.10.0, consola@^2.10.1, consola@^2.15.0, consola@^2.15.3, consola@^2.6.0, consola@^2.9.0:
   version "2.15.3"
   resolved "https://registry.yarnpkg.com/consola/-/consola-2.15.3.tgz#2e11f98d6a4be71ff72e0bdf07bd23e12cb61550"
   integrity sha512-9vAdYbHj6x2fLKC4+oPH0kFzY/orMZyG2Aj+kNylHxKGJ/Ed4dpNyAQYwJOdqO4zdM7XpVHmyejQDcQHrnuXbw==
@@ -3500,6 +3528,11 @@ dot-prop@^5.2.0:
   integrity sha512-QM8q3zDe58hqUqjraQOmzZ1LIH9SWQJTlEKCH4kJ2oQvLZk7RbQXvtDM2XEq3fwkV9CCvvH4LA0AV+ogFsBM2Q==
   dependencies:
     is-obj "^2.0.0"
+
+dotenv@^8.1.0:
+  version "8.6.0"
+  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-8.6.0.tgz#061af664d19f7f4d8fc6e4ff9b584ce237adcb8b"
+  integrity sha512-IrPdXQsk2BbzvCBGBOTmmSH5SodmqZNt4ERAZDmW4CT+tL8VtvinqywuANaFu4bOMWki16nqf0e4oC0QIaDr/g==
 
 dotenv@^9.0.2:
   version "9.0.2"
@@ -4202,6 +4235,11 @@ flat@^5.0.0:
   version "5.0.2"
   resolved "https://registry.yarnpkg.com/flat/-/flat-5.0.2.tgz#8ca6fe332069ffa9d324c327198c598259ceb241"
   integrity sha512-b6suED+5/3rTpUBdG1gupIl8MPFCAMA0QXwmljLhvCUKcUvdE4gWky9zpuGCcXHOsz4J9wPGNWq6OKpmIzz3hQ==
+
+flatpickr@^4.5.1:
+  version "4.6.9"
+  resolved "https://registry.yarnpkg.com/flatpickr/-/flatpickr-4.6.9.tgz#9a13383e8a6814bda5d232eae3fcdccb97dc1499"
+  integrity sha512-F0azNNi8foVWKSF+8X+ZJzz8r9sE1G4hl06RyceIaLvyltKvDl6vqk9Lm/6AUUCi5HWaIjiUbk7UpeE/fOXOpw==
 
 flatted@^3.1.0:
   version "3.2.2"
@@ -5524,6 +5562,11 @@ lodash._reinterpolate@^3.0.0:
   resolved "https://registry.yarnpkg.com/lodash._reinterpolate/-/lodash._reinterpolate-3.0.0.tgz#0ccf2d89166af03b3663c796538b75ac6e114d9d"
   integrity sha1-DM8tiRZq8Ds2Y8eWU4t1rG4RTZ0=
 
+lodash.castarray@^4.4.0:
+  version "4.4.0"
+  resolved "https://registry.yarnpkg.com/lodash.castarray/-/lodash.castarray-4.4.0.tgz#c02513515e309daddd4c24c60cfddcf5976d9115"
+  integrity sha1-wCUTUV4wna3dTCTGDP3c9ZdtkRU=
+
 lodash.clonedeep@^4.5.0:
   version "4.5.0"
   resolved "https://registry.yarnpkg.com/lodash.clonedeep/-/lodash.clonedeep-4.5.0.tgz#e23f3f9c4f8fbdde872529c1071857a086e5ccef"
@@ -5533,6 +5576,11 @@ lodash.debounce@^4.0.8:
   version "4.0.8"
   resolved "https://registry.yarnpkg.com/lodash.debounce/-/lodash.debounce-4.0.8.tgz#82d79bff30a67c4005ffd5e2515300ad9ca4d7af"
   integrity sha1-gteb/zCmfEAF/9XiUVMArZyk168=
+
+lodash.isplainobject@^4.0.6:
+  version "4.0.6"
+  resolved "https://registry.yarnpkg.com/lodash.isplainobject/-/lodash.isplainobject-4.0.6.tgz#7c526a52d89b45c45cc690b88163be0497f550cb"
+  integrity sha1-fFJqUtibRcRcxpC4gWO+BJf1UMs=
 
 lodash.kebabcase@^4.1.1:
   version "4.1.1"
@@ -6150,6 +6198,15 @@ num2fraction@^1.2.2:
   version "1.2.2"
   resolved "https://registry.yarnpkg.com/num2fraction/-/num2fraction-1.2.2.tgz#6f682b6a027a4e9ddfa4564cd2589d1d4e669ede"
   integrity sha1-b2gragJ6Tp3fpFZM0lidHU5mnt4=
+
+nuxt-flatpickr@^0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/nuxt-flatpickr/-/nuxt-flatpickr-0.0.2.tgz#b7b8410560e68d83a235c0f01db7f520a5dde59c"
+  integrity sha512-S1/uGI7A32r6kpXNSf2TFIv3T3QwFwQMlkOVtWjajdj7HnVeIEHzOhxn+ylULmX5t8tu0V/kDXc4yduI+J9plw==
+  dependencies:
+    add "^2.0.6"
+    vue-flatpickr-component "^7.0.0"
+    yarn "^1.5.1"
 
 nuxt@^2.15.7:
   version "2.15.8"
@@ -7550,6 +7607,13 @@ purgecss@^4.0.3:
     glob "^7.0.0"
     postcss "^8.2.1"
     postcss-selector-parser "^6.0.2"
+
+push-dir@^0.4.1:
+  version "0.4.1"
+  resolved "https://registry.yarnpkg.com/push-dir/-/push-dir-0.4.1.tgz#29481eacd9c2106bbb7941db6d37d122a071ecb4"
+  integrity sha1-KUgerNnCEGu7eUHbbTfRIqBx7LQ=
+  dependencies:
+    minimist "^1.2.0"
 
 q@^1.1.2:
   version "1.5.1"
@@ -9126,6 +9190,11 @@ utils-merge@1.0.1:
   resolved "https://registry.yarnpkg.com/utils-merge/-/utils-merge-1.0.1.tgz#9f95710f50a267947b2ccc124741c1028427e713"
   integrity sha1-n5VxD1CiZ5R7LMwSR0HBAoQn5xM=
 
+v-click-outside@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/v-click-outside/-/v-click-outside-3.1.2.tgz#1dbaa14bf09a21bd16f23a38f03bfa3988f71281"
+  integrity sha512-gMdRqfRE6m6XU6SiFi3dyBlFB2MWogiXpof8Aa3LQysrl9pzTndqp/iEaAphLoadaQUFnQ0ec6fLLaxr7LiY6A==
+
 v8-compile-cache@^2.0.3:
   version "2.3.0"
   resolved "https://registry.yarnpkg.com/v8-compile-cache/-/v8-compile-cache-2.3.0.tgz#2de19618c66dc247dcfb6f99338035d8245a2cee"
@@ -9171,6 +9240,13 @@ vue-eslint-parser@^7.1.1, vue-eslint-parser@^7.10.0:
     esquery "^1.4.0"
     lodash "^4.17.21"
     semver "^6.3.0"
+
+vue-flatpickr-component@^7.0.0:
+  version "7.0.6"
+  resolved "https://registry.yarnpkg.com/vue-flatpickr-component/-/vue-flatpickr-component-7.0.6.tgz#f0e750f5c43c59471eb07dd88f7e534391305815"
+  integrity sha512-u6bSP/2ONuUruR49V1YX/2in84j6jzVn+QVhsef5MuGv+OlF+PocrGd/YNLoQRdLc1FlcgYqqJ2UNiYI2PvhSw==
+  dependencies:
+    flatpickr "^4.5.1"
 
 vue-hot-reload-api@^2.3.0:
   version "2.3.4"
@@ -9519,6 +9595,11 @@ yargs@^16.2.0:
     string-width "^4.2.0"
     y18n "^5.0.5"
     yargs-parser "^20.2.2"
+
+yarn@^1.5.1:
+  version "1.22.15"
+  resolved "https://registry.yarnpkg.com/yarn/-/yarn-1.22.15.tgz#3431d5f134d3c752a57a9dd7f5e1167627ca3cc3"
+  integrity sha512-AzoEDxj256BOS/jqDXA3pjyhmi4FRBBUMgYoTHI4EIt2EhREkvH0soPVEtnD+DQIJfU5R9bKhcZ1H9l8zPWeoA==
 
 ylru@^1.2.0:
   version "1.2.1"
