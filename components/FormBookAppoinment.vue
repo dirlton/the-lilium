@@ -51,6 +51,8 @@
             <option>Financing</option>
             <option>Purchase</option>
             <option>View Showflat</option>
+            <option>I want to purchase, but I have an existing property to sell</option>
+            <option>Decoupling</option>
             <option>CPF Fund Usage</option>
             <option>Loan Eligibility (LTV)</option>
             <option>Total Debt Servicing Ratio (TDSR)</option>
@@ -80,7 +82,7 @@
           <input
             id="mobile"
             v-model="mobile"
-            type="text"
+            type="number"
             required="required"
             class="lowercase form-input"
           />

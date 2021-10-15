@@ -52,7 +52,7 @@
             <NuxtLink
               class="inline-block px-2 py-2 hover:text-white text-theme-900"
               :to="$nuxt.$route.path + '#'"
-              >Normanton Park</NuxtLink
+              >One Bernam</NuxtLink
             >
             <div
               class="absolute z-10 hidden py-2 -ml-2 transition"
@@ -98,8 +98,8 @@
                     "
                     to="/location-map"
                   >
-                    Location Map</NuxtLink
-                  >
+                    Location Map
+                    </NuxtLink>
                 </li>
                 <li>
                   <NuxtLink
@@ -115,6 +115,22 @@
                     "
                   >
                     Site Plan
+                  </NuxtLink>
+                </li>
+                <li>
+                  <NuxtLink
+                    to="/360-degree-view-site-plan"
+                    class="
+                      inline-block
+                      w-full
+                      px-2
+                      py-2
+                      menu-item
+                      text-theme-900
+                      hover:bg-theme-100
+                    "
+                  >
+                    360 Degree View Site Plan
                   </NuxtLink>
                 </li>
                 <li>
@@ -204,7 +220,79 @@
             <NuxtLink
               class="inline-block px-2 py-2 hover:text-white text-theme-900"
               :to="$nuxt.$route.path + '#'"
-              >Kent Ridge</NuxtLink
+              >Tanjong Pagar</NuxtLink
+            >
+            <div
+              class="absolute z-10 hidden py-2 -ml-2 transition"
+              style="min-width: 300px"
+            >
+              <ul
+                class="
+                  p-2
+                  space-y-1
+                  overflow-hidden
+                  text-sm
+                  bg-white
+                  rounded
+                  shadow-md
+                "
+              >
+                <li>
+                  <NuxtLink
+                    to="/greater-southern-waterfront-ura-masterplan"
+                    class="
+                      inline-block
+                      w-full
+                      px-2
+                      py-2
+                      menu-item
+                      text-theme-900
+                      hover:bg-theme-100
+                    "
+                  >
+                    Greater Southern Waterfront URA Masterplan
+                  </NuxtLink>
+                </li>
+                <li>
+                  <NuxtLink
+                    to="/queenstown-ura-masterplan"
+                    class="
+                      inline-block
+                      w-full
+                      px-2
+                      py-2
+                      menu-item
+                      text-theme-900
+                      hover:bg-theme-100
+                    "
+                  >
+                    Queenstown URA Masterplan
+                  </NuxtLink>
+                </li>
+                <li>
+                  <NuxtLink
+                    to="/bukit-merah-ura-masterplan"
+                    class="
+                      inline-block
+                      w-full
+                      px-2
+                      py-2
+                      menu-item
+                      text-theme-900
+                      hover:bg-theme-100
+                    "
+                  >
+                    Bukit Merah URA Masterplan
+                  </NuxtLink>
+                </li>
+              </ul>
+            </div>
+          </li>
+          <li class="menu-item group hover:bg-theme-700">
+            <NuxtLink
+              class="inline-block px-2 py-2 hover:text-white text-theme-900"
+              :to="$nuxt.$route.path + '#'"
+              >Press</NuxtLink
             >
             <div
               class="absolute z-10 hidden py-2 -ml-2 transition"

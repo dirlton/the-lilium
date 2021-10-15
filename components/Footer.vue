@@ -6,18 +6,18 @@
           <div class="space-y-2">
             <h4 class="text-xl font-medium">Proudly Developed By</h4>
             <img
-              src="~assets/img/developer-logo.png"
-              alt="SingHaiYi Logo"
-              class="object-contain h-36"
+              src="~assets/img/MCC-Haoyuan-logo.png"
+              alt="MCC &amp; HY Reality PTE. LTD."
+              class="object-contain h-40"
             />
           </div>
           <div class="space-y-2">
-            <h4 class="text-xl font-medium">Normanton Park</h4>
+            <h4 class="text-xl font-medium">One Bernam</h4>
             <ul class="space-y-3 text-gray-600">
-              <li>Developer: Kingsford Huray Development Pte Ltd</li>
+              <li>Developer: MCC &amp; HY Realty Pte. Ltd.</li>
               <li>Tenure of Land: 99 Years Leasehold</li>
-              <li>Site Area: 660,999 sqft</li>
-              <li>Expected TOP: Jan 23</li>
+              <li>Site Area: Approx. 3,846 sqm / 41,400 sqft</li>
+              <li>Expected TOP: 30 June 2025</li>
             </ul>
           </div>
           <div class="space-y-2">
@@ -28,7 +28,7 @@
                   to="/"
                   aria-current="page"
                   class="nuxt-link-exact-active nuxt-link-active"
-                  >Normanton Park</NuxtLink
+                  >One Bernam</NuxtLink
                 >
               </li>
               <li><NuxtLink to="/floor-plan" class="">Floor Plan</NuxtLink></li>
@@ -58,7 +58,7 @@
                     fill="currentColor"
                   ></path>
                 </svg>
-                <p>Normanton Park</p>
+                <p>One Bernam</p>
               </li>
               <li class="flex items-center space-x-2">
                 <svg
@@ -119,7 +119,7 @@
                   ></path>
                 </svg>
                 <a href="mailto:sales@normantonparkcondos.com.sg"
-                  >sales@normantonparkcondos.com.sg</a
+                  >sales@onebernam.com.sg</a
                 >
               </li>
             </ul>
@@ -139,8 +139,8 @@
               "
             >
               <p class="px-1">Copyright © 2021</p>
-              <p class="px-1">Normanton Park</p>
-              <p class="px-1">Kingsford Huray Development.</p>
+              <p class="px-1">One Bernam</p>
+              <p class="px-1">MCC &amp; HY Realty Pte. Ltd.</p>
               <p class="px-1"><a href="tel:+6561003337">+65 6100 3337</a></p>
               <NuxtLink to="/privacy-policy" class="px-1"
                 >Privacy Policy</NuxtLink
@@ -196,7 +196,7 @@
             </svg>
           </div>
           <p>
-            <span class="whatsapp-name">Normanton Park</span><br /><small
+            <span class="whatsapp-name">One Bernam 柏南華庭 </span><br /><small
               >Typically replies within a day</small
             >
           </p>
@@ -245,10 +245,10 @@
               class="WhatsappChat__Message-sc-1wqac52-4 kAZgZq"
             >
               <div class="WhatsappChat__Author-sc-1wqac52-3 bMIBDo">
-                Normanton Park
+                One Bernam
               </div>
               <div class="WhatsappChat__Text-sc-1wqac52-2 iSpIQi">
-                Thank you for your interest in Normanton Park! 👋<br /><br />What
+                Thank you for your interest in One Bernam! 👋<br /><br />What
                 question would you have for me?
               </div>
               <div class="WhatsappChat__Time-sc-1wqac52-5 cqCDVm">

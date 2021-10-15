@@ -12,31 +12,29 @@
             <div class="grid grid-cols-1 gap-6 sm:grid-cols-2">
               <div>
                 <label class="block text-gray-500">Developer</label>
-                <p>Kingsford Huray Development</p>
+                <p>MCC &amp; HY Realty PTE LTD (Bernam)</p>
               </div>
               <div>
                 <label class="block text-gray-500"
                   >Developer's License No.</label
                 >
-                <p>C1315</p>
+                <p>TBA</p>
               </div>
               <div>
                 <label class="block text-gray-500">Location</label>
-                <p>Kent Ridge (Queentsown Planing Area)</p>
+                <p>Bernam Street / Anson Road Precinct</p>
               </div>
               <div>
                 <label class="block text-gray-500">Tenure of Land</label>
-                <p>Leasehold</p>
+                <p>99 year leasehold</p>
+              </div>
+              <div>
+                <label class="block text-gray-500">Gross Floor Area</label>
+                <p>Approx. 28,001 sqm / 30.141 sqft</p>
               </div>
               <div>
                 <label class="block text-gray-500">Site Area</label>
-                <p>Approx. 660,999 sqft</p>
-              </div>
-              <div>
-                <label class="block text-gray-500"
-                  >Expected Vacant Possession</label
-                >
-                <p>2-Jan-23</p>
+                <p>Approx. 3,846.2 sqm or 41,400 sqft</p>
               </div>
               <div>
                 <label class="block text-gray-500">Carpark Lots</label>
@@ -44,29 +42,23 @@
               </div>
               <div>
                 <label class="block text-gray-500">District</label>
-                <p>5</p>
+                <p>2</p>
               </div>
               <div>
                 <label class="block text-gray-500">No. of Blocks</label>
-                <p>9</p>
+                <p>38 Blocks</p>
               </div>
               <div>
                 <label class="block text-gray-500">No. of Storeys</label>
-                <p>24</p>
+                <p>2 Storey Commercial, One Storey Service Apartments (13 Units) and 32 Residential Units with Swimming Pool</p>
               </div>
               <div>
                 <label class="block text-gray-500">No. of Units</label>
-                <p>
-                  1840 units + 22 Strata Landed + 1 Restaurant + 8 Retail Shops
-                </p>
-              </div>
-              <div>
-                <label class="block text-gray-500">Main Contractor</label>
-                <p>China Jingye Engineering Corp Ltd</p>
+                <p>351 Residential Units</p>
               </div>
               <div>
                 <label class="block text-gray-500">Architect</label>
-                <p>P &amp; T Group</p>
+                <p>DP Architect PTE LTD.</p>
               </div>
               <div>
                 <label class="block text-gray-500">Landscape Consultant</label>
@@ -74,13 +66,20 @@
               </div>
               <div>
                 <label class="block text-gray-500">Address</label>
-                <p>1-13 Normanton Park</p>
+                <p>Bernam Street</p>
+              </div>
+              <div>
+                <label class="block text-gray-500">Expected Date of TOP</label>
+                <p>30 June 2025</p>
+              </div>
+              <div>
+                <label class="block text-gray-500">Expected Date of Legal Completion</label>
+                <p>30 June 2027</p>
               </div>
             </div>
           </div>
           <div class="py-4 italic text-center text-gray-500">
-            (Project details for Normanton Park may be subjected to change
-            without prior notice)
+            (Project details for One Bernam 柏南華庭 may be subjected to change without prior notice)
           </div>
           <section class="py-6">
             <NuxtLink

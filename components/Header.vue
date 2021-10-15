@@ -170,7 +170,7 @@
                             hover:text-theme-900 hover:bg-theme-200
                           "
                         >
-                          <p>Normanton Park</p>
+                          <p>One Bernam</p>
                           <svg
                             fill="currentColor"
                             viewBox="0 0 24 24"
@@ -229,6 +229,20 @@
                               to="/site-plan"
                               class="inline-block w-full"
                               >Site Plan</NuxtLink
+                            >
+                          </li>
+                          <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/360-degree-view-site-plan"
+                              class="inline-block w-full"
+                              >360 Degree View Site Plan</NuxtLink
                             >
                           </li>
                           <li
@@ -320,7 +334,7 @@
                             hover:text-theme-900 hover:bg-theme-200
                           "
                         >
-                          <p>Kent Ridge</p>
+                          <p>Tanjong Pagar</p>
                           <svg
                             fill="currentColor"
                             viewBox="0 0 24 24"
@@ -335,6 +349,90 @@
                           class="py-2 space-y-2 text-gray-600"
                           :style="
                             kentSubmenu ? 'display: block' : 'display: none'
+                          "
+                        >
+                          <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/greater-southern-waterfront-ura-masterplan"
+                              class="inline-block w-full"
+                            >
+                              Greater Southern Waterfront URA Masterplan
+                            </NuxtLink>
+                          </li>
+                          <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/queenstown-ura-masterplan"
+                              class="inline-block w-full"
+                            >
+                              Queenstown URA Masterplan
+                            </NuxtLink>
+                          </li>
+                          <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/bukit-merah-ura-masterplan"
+                              class="inline-block w-full"
+                            >
+                              Bukit Merah URA Masterplan
+                            </NuxtLink>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                    <div>
+                      <div
+                        class="cursor-pointer"
+                        @click.prevent="pressMenuClick"
+                      >
+                        <div
+                          class="
+                            flex
+                            items-center
+                            justify-between
+                            w-full
+                            px-2
+                            py-1
+                            font-medium
+                            rounded
+                            bg-theme-100
+                            hover:text-theme-900 hover:bg-theme-200
+                          "
+                        >
+                          <p>Press</p>
+                          <svg
+                            fill="currentColor"
+                            viewBox="0 0 24 24"
+                            class="w-5 h-5 transition transform rotate-180"
+                          >
+                            <path
+                              d="M18.707 15.707a1 1 0 01-1.414 0L12 10.414l-5.293 5.293a1 1 0 01-1.414-1.414l6-6a1 1 0 011.414 0l6 6a1 1 0 010 1.414z"
+                            ></path>
+                          </svg>
+                        </div>
+                        <ul
+                          class="py-2 space-y-2 text-gray-600"
+                          :style="
+                            pressSubmenu ? 'display: block' : 'display: none'
                           "
                         >
                           <li
@@ -573,6 +671,7 @@ export default {
       menuIsActive: false,
       normantonParkSubmenu: false,
       kentSubmenu: false,
+      pressSubmenu:false,
       financingSubmenu: false,
     }
   },
@@ -593,6 +692,9 @@ export default {
     },
     financingMenuClick() {
       this.financingSubmenu = !this.financingSubmenu
+    },
+    pressMenuClick() {
+      this.pressSubmenu = !this.pressSubmenu
     },
   },
 }
