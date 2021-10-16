@@ -11,7 +11,7 @@
           <p>
             It is important to only engage the Official Direct Developer Team to
             assist you on all matters related to the new launch condominium at
-            Normanton Park. There are several complex procedures and key factors
+            One Bernam. There are several complex procedures and key factors
             to consider before committing to purchase a unit. Rest assured that
             all our representatives are certified, well-trained and committed to
             delivering and value-add.
@@ -24,7 +24,7 @@
             >. There is no commission required to be paid.
           </p>
           <p>
-            Viewing of Normanton Park Showflat is by appointment only. Register
+            Viewing of One Bernam Showflat is by appointment only. Register
             for an appointment below. Our friendly appointed representative will
             get back to you as soon as we can.
           </p>
