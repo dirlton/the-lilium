@@ -720,7 +720,7 @@ export default {
       this.menuIsActive = !this.menuIsActive
     },
     obMenuClick() {
-      this.onebernamSubmenu = !this.oneBernamSubmenu
+      this.oneBernamSubmenu = !this.oneBernamSubmenu
     },
     tanjongMenuClick() {
       this.tanjongSubmenu = !this.tanjongSubmenu

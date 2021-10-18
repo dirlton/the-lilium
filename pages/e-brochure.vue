@@ -8,9 +8,9 @@
     <section>
       <div class="max-w-6xl px-4 py-12 mx-auto space-y-6">
         <div class="flex justify-center">
-          <NuxtLink to="/public/pdf/normanton-park-e-brochure.pdf" target="_blank"
+          <NuxtLink to="/public/pdf/OB-E-Brochure.pdf" target="_blank"
             ><img
-              src="~assets/img/normanton-park-cover.png"
+              src="~assets/img/cover-one-bernam.jpg"
               alt="Normanton Park e-Brochure"
           /></NuxtLink>
         </div>

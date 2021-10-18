@@ -10,7 +10,7 @@
         <div class="space-y-2 text-center">
           <p class="text-xl">
             <span class="font-medium text-theme-500">Last updated</span>:
-            02-05-2021
+            18-10-2021
           </p>
           <p class="max-w-2xl mx-auto">
             Disclaimer: The Balance Units Chart displayed here is for reference
@@ -29,7 +29,7 @@
         </div>
         <div class="text-center">
           <NuxtLink
-            to="/public/pdf/normanton-park-balance-units-chart.pdf"
+            to="/public/pdf/one-bernam-balance-chart.pdf"
             target="_blank"
             class="font-medium hover:underline"
           >
@@ -48,7 +48,7 @@
               py-3
               text-white
               transition
-              rounded
+              rounded 
               sm:px-0
               hover:bg-theme-900
               bg-theme-700
@@ -78,7 +78,7 @@
 <script>
 export default {
   data() {
-    return { url: process.env.BASE_URL ? '/' + process.env.BASE_URL + '/public/pdf/normanton-park-balance-units-chart.pdf': '/public/pdf/normanton-park-balance-units-chart.pdf'}
+    return { url: process.env.BASE_URL ? '/' + process.env.BASE_URL + '/public/pdf/one-bernam-balance-chart.pdf': '/public/pdf/one-bernam-balance-chart.pdf'}
   },
 }
 </script>

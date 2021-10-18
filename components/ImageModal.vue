@@ -82,7 +82,7 @@ export default {
       this.showModal = false
     },
     imageSource(url) {
-      return require(`~/assets/img/${url}`)
+      return require(`~/assets/img/gallery/${url}`)
     },
   },
 }

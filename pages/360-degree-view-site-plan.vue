@@ -2,16 +2,30 @@
   <div>
     <div class="py-12 select-none bg-theme-700">
       <div class="text-xl font-semibold text-center text-white sm:text-4xl">
-        Site Plan
+        360 Degree View Site Plan
       </div>
     </div>
     <section>
       <div class="max-w-6xl px-4 py-12 mx-auto space-y-6">
-        <img
+        <!--
+        <p><iframe class="videoFrame" 
+        src="~pages/share/73kXC.vue" 
+        width="800" height="400" 
+        frameborder="0" allowfullscreen="allowfullscreen">
+        <span style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" 
+        data-mce-type="bookmark" class="mce_SELRES_start">
+        </span>
+        <span style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" data-mce-type="bookmark" class="mce_SELRES_start">
+          </span>
+          </iframe> </p> 
+          -->
+
+          <img
           src="~assets/img/siteplan-onebernam.jpg"
           alt="Site Plan"
           class="mx-auto"
-        />
+        /> 
+
         <section class="py-6">
           <NuxtLink
             to="/floor-plan"

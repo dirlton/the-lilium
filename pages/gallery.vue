@@ -52,18 +52,15 @@ export default {
   data() {
     return {
       imageUrl: [
-        { url: 'Normanton-Park-50m-Pool-1024x502.jpg' },
-        { url: 'Normanton-Park-Commercial-1024x563.jpg' },
-        { url: 'Normanton-Park-Facilities-1024x717.jpg' },
-        { url: 'Normanton-Park-Grand-Lobby-1024x512.jpg' },
-        { url: 'Normanton-Park-HERO-1-1024x768.jpg' },
-        { url: 'Normanton-Park-Landscape-1024x614.jpg' },
-        { url: 'Normanton-Park-LanternTrail-1024x614.jpg' },
-        { url: 'Normanton-Park-Overall_HERO-2-1024x716.jpg' },
-        { url: 'Normanton-Park-Panoramic-HERO-1024x293.jpg' },
-        { url: 'Normanton-Park-Strata-1-1024x560.jpg' },
-        { url: 'Normanton-Park-Strata-2-1024x563.jpg' },
-        { url: 'Normanton-Park-Unit-Views-1024x563.jpg' },
+        { url: 'One-bernam-commercial-square.jpg' }, 
+        { url: 'One-Bernam-facade.jpg' },
+        { url: 'one-bernam-function-room.jpg' }, 
+        { url: 'One-bernam-garden-deck.jpg' },
+        { url: 'One-Bernam-hammock-1024x611.jpg' }, 
+        { url: 'one-bernam-landscape.jpg' }, 
+        { url: 'One-bernam-living-room.jpg' },
+        { url: 'One-Bernam-pool.jpg' }, 
+        { url: 'One-Bernam-pool-deck.jpg' }, 
       ],
     }
   },

@@ -11,47 +11,70 @@
           <h3 class="text-xl font-semibold sm:text-2xl">Developed By</h3>
           <div>
             <img
-              src="~assets/img/developer-logo.png"
-              alt="Kingsford Logo"
+              src="~assets/img/developer-onebernam.png"
+              alt="MCC Land Pte. Ltd. Logo"
               class="mx-auto"
             />
           </div>
         </div>
-        <div class="max-w-6xl px-4 mx-auto prose">
+        <div class="max-w-6xl px-4 mx-auto prose text-justify">
           <p>
-            Normanton Park is formerly known as 488-unit HUDC (Normanton Park),
-            proudly developed by Kingsford Hurray Development. Kingsford
-            Development was founded during year 2000 by Hong Kong XINFENG
-            Investment Co. Ltd.
+            Established in 2010, MCC Land (Singapore) Limited has been an active player in the real estate scene. 
+            It has been involved in several development projects and shown great results, having managed five of which, 
+            co-developed two and developed another five projects. Not surprisingly, it has been awarded the title of 
+            Singapore’s top 10 real estate developers for 3 consecutive years which has been a huge feat. 
+          </p> 
+          <p> 
+            Not only that, it has also clinched the Asia’s Top Influential Brands award. 
+            A registered contractor with the Building and Construction Authority of Singapore (BCA) , 
+            China Jingye Engineering Corporation Limited (Singapore Branch) is also the only state-owned enterprise in 
+            Singapore that obtain the highest grade (A1) in the category of General Building (CW01) and Civil Engineering (CW02). 
           </p>
           <p>
-            Under Kingsford group, organisation business portfolios include
-            Kingsford Estate, Feng Hua Property Management, Pui sing Consulting
-            and North Carbon Manufacturing. Primarily in the real estate
-            industryfrom real estate development, management of property and
-            consulting firm.
+            With a proven track record in both private and public construction sectors, the company is a well-known contractor 
+            for most of Singapore’s iconic landmarks. These include the well-known Maritime Experiential Museum, Universal Studios Singapore 
+            and Resorts World Sentosa. China Jingye Construction Engineering (Singapore) Private Limited has a colourful portfolio in 
+            the private civil engineering sector. Since its inception in 1996, it has been part of MCC Singapore , with an accumulation 
+            of comprehensive experience and engineering performance in specialised contracting, subcontracting and supply works as well 
+            as in turnkey.
           </p>
           <p>
-            We have grown our business over the years in Singapore, Australia
-            and China. Mainly investing in residential development and
-            successfully developed over hundred acres of land. Thanks to its
-            unparalleled management, service and growth model, Kingsford has
-            earned a great reputation both at home and abroad.
+            In 2012, MCC Singapore has since expanded beyond Singapore’s shores to undertake projects in Malaysia (known as MCC Bina Sdn Bhd) 
+            on a larger scale and in recent years, to Indonesia and India, establishing its presence in the Southeast Asia.
+          </p>
+        </div>
+      </section>
+      <section class="py-6 space-y-6">
+        <div class="space-y-4 text-center">
+          <div>
+            <img
+              src="~assets/img/developer-onebernam2.png"
+              alt="Hou Yan Investment Pte. Ltd. Logo"
+              class="mx-auto"
+            />
+          </div>
+        </div>
+        <div class="max-w-6xl px-4 mx-auto prose text-justify">
+          <p>
+            One Bernam will be built by Hao Yuan Investments, also known as HY Realty Pte Ltd, a well-known Chinese developer based in Singapore. 
+            The group has won the government land sales (GLS) offer for the premium property in Bernam Street, Tanjong Pagar, from the 
+            Urban Redevelopment Authority for S$440.9 million. Hao Yuan Investments, a young yet potential developer, was founded on June 4, 2010 in Singapore. 
+            Hao Yuan Investments' core industries are in Singapore real estate, specialising on residential private and executive condominiums. 
+            The company has a long history and an established track record.
+          </p> 
+          <p> 
+            Hao Yuan Investment has concentrated on bidding for residential sites and converting these sites into magnificent residences for 
+            home owners who have trusted them over the last ten years. They've completed executive condos like Northwave and Forestville, 
+            as well as private condos like The Nautical, Sea Horizon, and Queens Peak. 
           </p>
           <p>
-            Our aim is to make Kingsford a respectable domestic brand for
-            homeowners. Through the combination of advanced technologies, we are
-            dedicated to building quality and secure homes, and we aim to
-            understand more in-depth about consumer requirements and needs.
+            In 2013, the company paid $485.81 million for a 36.8-acre block of property in Malaysia's Iskandar Waterfront, 
+            with intentions to develop the area into many high-end business, retail, and residential buildings over the next eight years.
           </p>
           <p>
-            Our slogan is "KINGSFORD is quality, KINGSFORD is reliability,
-            KINGSFORD is the brand." We're continuously working towards the goal
-            of becoming global powerhouse and make the Kingdom of Kingsford
-            Estate a reality! In Singapore, our previous established track
-            records are Kingsford Waterbay and Kingsford Hillview Peak. Track
-            record in China includes, Kingsford Golden Garden, Kingsford Ca
-            Yuan, Kingsford International and many more.
+            Hao Yuan Investments is a prominent Singapore-based developer with a strong commitment to providing good value and great quality 
+            to consumers and investors who trust them. Their next project will be One Bernam in Tanjong Pagar's premium neighbourhood, 
+            which was hotly fought throughout the GLS bidding process.
           </p>
         </div>
       </section>
@@ -63,29 +86,29 @@
           <div class="space-y-2 text-center break-words">
             <img
               src="~assets/img/developer/track-record-1.jpg"
-              alt="Kingsford Waterbay"
+              alt="Forestville EC"
               class="mx-auto rounded shadow"
             />
-            <p class="text-sm font-semibold sm:text-lg">Kingsford Waterbay</p>
+            <p class="text-sm font-semibold sm:text-lg">Forestville EC</p>
           </div>
           <div class="space-y-2 text-center break-words">
             <img
               src="~assets/img/developer/track-record-2.jpg"
-              alt="Kingsford Hillview Peak"
+              alt="Northwave EC"
               class="mx-auto rounded shadow"
             />
             <p class="text-sm font-semibold sm:text-lg">
-              Kingsford Hillview Peak
+              Northwave EC
             </p>
           </div>
           <div class="space-y-2 text-center break-words">
             <img
               src="~assets/img/developer/track-record-3.jpg"
-              alt="Kingsford Yu Jing Ting"
+              alt="Sea Horizon"
               class="mx-auto rounded shadow"
             />
             <p class="text-sm font-semibold sm:text-lg">
-              Kingsford Yu Jing Ting
+              Sea Horizon
             </p>
           </div>
         </div>
@@ -93,29 +116,29 @@
           <div class="space-y-2 text-center break-words">
             <img
               src="~assets/img/developer/track-record-4.jpg"
-              alt="Xi Fu Qu"
+              alt="The Nautical"
               class="mx-auto rounded shadow"
             />
-            <p class="text-sm font-semibold sm:text-lg">Xi Fu Qu</p>
+            <p class="text-sm font-semibold sm:text-lg">The Nautical</p>
           </div>
           <div class="space-y-2 text-center break-words">
             <img
               src="~assets/img/developer/track-record-5.jpg"
-              alt="Kingsford Yong Jing Hao Cheng"
+              alt="Queens Peak"
               class="mx-auto rounded shadow"
             />
             <p class="text-sm font-semibold sm:text-lg">
-              Kingsford Yong Jing Hao Cheng
+              Queens Peak
             </p>
           </div>
           <div class="space-y-2 text-center break-words">
             <img
               src="~assets/img/developer/track-record-6.jpg"
-              alt="Kingsford Li Cheng"
+              alt="Provence Residences"
               class="mx-auto rounded shadow"
             />
             <p class="text-sm font-semibold sm:text-lg">
-              Kingsford Li Cheng
+              Provence Residences
             </p>
           </div>
         </div>
