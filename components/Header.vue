@@ -350,7 +350,7 @@
                             "
                           >
                             <NuxtLink
-                              to="/greater-southern-waterfront-ura-masterplan"
+                              to="/tanjong-pagar-ura-master-plan"
                               class="inline-block w-full"
                             >
                               Tanjong Pagar URA Master Plan
@@ -365,7 +365,7 @@
                             "
                           >
                             <NuxtLink
-                              to="/queenstown-ura-masterplan"
+                              to="/tanjong-pagar-ura-master-plan-chinese"
                               class="inline-block w-full"
                             >
                               Tanjong Pagar URA Master Plan (Chinese)
@@ -380,7 +380,7 @@
                             "
                           >
                             <NuxtLink
-                              to="/bukit-merah-ura-masterplan"
+                              to="/central-area-ura-masterplan"
                               class="inline-block w-full"
                             >
                               Central Area URA Master Plan
@@ -395,7 +395,7 @@
                             "
                           >
                             <NuxtLink
-                              to="/bukit-merah-ura-masterplan"
+                              to="/greater-sountern-water-front"
                               class="inline-block w-full"
                             >
                               Greater Sountern Water Front URA Master Plan
@@ -449,7 +449,7 @@
                             "
                           >
                             <NuxtLink
-                              to="/greater-southern-waterfront-ura-masterplan"
+                              to="/press/alibaba-buy"
                               class="inline-block w-full"
                             >
                               Alibaba Buy 50% Stake in Singapore Office Building
@@ -464,10 +464,10 @@
                             "
                           >
                             <NuxtLink
-                              to="/queenstown-ura-masterplan"
+                              to="/press/ura-tender"
                               class="inline-block w-full"
                             >
-                              URA Launches Tender of Bernam Street Site 
+                              URA Launches Tender of Bernam Street Site in CBD
                             </NuxtLink>
                           </li>
                           <li
@@ -479,10 +479,10 @@
                             "
                           >
                             <NuxtLink
-                              to="/bukit-merah-ura-masterplan"
+                              to="/press/hou-yuan-submits"
                               class="inline-block w-full"
                             >
-                              Hao Yuan submits highest bid of $441 million for Bernam Street
+                              Hao Yuan Submits Highest Bid of $441 Million for Bernam Street GLS Site
                             </NuxtLink>
                           </li>
                           <li
@@ -494,10 +494,10 @@
                             "
                           >
                             <NuxtLink
-                              to="/bukit-merah-ura-masterplan"
+                              to="/press/new-private-home-sales"
                               class="inline-block w-full"
                             >
-                              New Private Home Sales Rebound in Nov
+                              New Private Home Sales Rebound in November
                             </NuxtLink>
                           </li>
                           <li
@@ -509,7 +509,7 @@
                             "
                           >
                             <NuxtLink
-                              to="/bukit-merah-ura-masterplan"
+                              to="/press/singapore-property-market"
                               class="inline-block w-full"
                             >
                               Singapore Property Market Expected to Hold Steady in 2020

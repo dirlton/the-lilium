@@ -2,24 +2,19 @@
   <div>
     <div class="py-12 select-none bg-theme-700">
       <div class="text-xl font-semibold text-center text-white sm:text-4xl">
-        Greater Sountern Water Front URA Master Plan
+        Singapore Property Market Expected to Hold Steady in 2020
       </div>
     </div>
     <section>
       <div class="max-w-6xl px-4 py-12 mx-auto space-y-6">
         <img
-          src="~assets/img/ura/greater-sountern-water-front-1.jpg"
-          alt="Greater Sountern Water Front URA Master Plan"
-          class="mx-auto"
-        />
-        <img
-          src="~assets/img/ura/greater-sountern-water-front-2.jpg"
-          alt="Greater Sountern Water Front URA Master Plan"
+          src="~assets/img/press/singapore-property-market-expected-to-hold-steady-in-2020.jpg"
+          alt="Singapore Property Market Expected to Hold Steady in 2020"
           class="mx-auto"
         />
         <section class="py-6">
           <NuxtLink
-            to="/press/alibaba-buy"
+            to="/financing/stamp-duty"
             class="
               inline-flex
               items-center
@@ -35,7 +30,7 @@
               bg-theme-700
             "
           >
-            Continue To Alibaba Buys 50% Stake In Singapore Office Building
+            Continue To Stamp Duty
             <svg
               fill="none"
               xmlns="http://www.w3.org/2000/svg"

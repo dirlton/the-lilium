@@ -2,24 +2,19 @@
   <div>
     <div class="py-12 select-none bg-theme-700">
       <div class="text-xl font-semibold text-center text-white sm:text-4xl">
-        Bukit Merah URA Masterplan
+        New Private Home Sales Rebound in November
       </div>
     </div>
     <section>
       <div class="max-w-6xl px-4 py-12 mx-auto space-y-6">
         <img
-          src="~assets/img/Normaton-Park-Bukit-Merah-Draft-Masterplan-2019-Page-1.jpg"
-          alt="Bukit Merah URA Masterplan"
-          class="mx-auto"
-        />
-        <img
-        src="~assets/img/Normaton-Park-Bukit-Merah-Draft-Masterplan-2019-Page-2.jpg"
-          alt="Bukit Merah URA Masterplan"
+          src="~assets/img/press/new-private-home-sales-rebound-in-nov-news-1.png"
+          alt="New Private Home Sales Rebound in November"
           class="mx-auto"
         />
         <section class="py-6">
           <NuxtLink
-            to="/financing/stamp-duty"
+            to="/press/singapore-property-market"
             class="
               inline-flex
               items-center
@@ -35,7 +30,7 @@
               bg-theme-700
             "
           >
-            Continue To Stamp Duty
+            Continue To New Singapore Property Market Expected to Hold Steady in 2020
             <svg
               fill="none"
               xmlns="http://www.w3.org/2000/svg"

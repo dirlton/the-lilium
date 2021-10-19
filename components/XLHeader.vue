@@ -234,7 +234,7 @@
               >
                 <li>
                   <NuxtLink
-                    to="/greater-southern-waterfront-ura-masterplan"
+                    to="/tanjong-pagar-ura-master-plan"
                     class="
                       inline-block
                       w-full
@@ -250,7 +250,7 @@
                 </li>
                 <li>
                   <NuxtLink
-                    to="/queenstown-ura-masterplan"
+                    to="/tanjong-pagar-ura-master-plan-chinese"
                     class="
                       inline-block
                       w-full
@@ -266,7 +266,7 @@
                 </li>
                 <li>
                   <NuxtLink
-                    to="/bukit-merah-ura-masterplan"
+                    to="/central-area-ura-masterplan"
                     class="
                       inline-block
                       w-full
@@ -322,7 +322,7 @@
               >
                 <li>
                   <NuxtLink
-                    to="/greater-southern-waterfront-ura-masterplan"
+                    to="/press/alibaba-buy"
                     class="
                       inline-block
                       w-full
@@ -338,7 +338,7 @@
                 </li>
                 <li>
                   <NuxtLink
-                    to="/queenstown-ura-masterplan"
+                    to="/press/ura-tender"
                     class="
                       inline-block
                       w-full
@@ -349,12 +349,12 @@
                       hover:bg-theme-100
                     "
                   >
-                    URA Launches Tender of Bernam Street site 
+                    URA Launches Tender of Bernam Street Site in CBD
                   </NuxtLink>
                 </li>
                 <li>
                   <NuxtLink
-                    to="/bukit-merah-ura-masterplan"
+                    to="/press/hou-yuan-submits"
                     class="
                       inline-block
                       w-full
@@ -365,12 +365,12 @@
                       hover:bg-theme-100
                     "
                   >
-                    Hao Yuan submits highest bid of $441 million for Bernam Street
+                    Hao Yuan Submits Highest Bid of $441 Million for Bernam Street GLS Site
                   </NuxtLink>
                 </li>
                 <li>
                   <NuxtLink
-                    to="/new-private-home-sales"
+                    to="/press/new-private-home-sales"
                     class="
                       inline-block
                       w-full
@@ -381,12 +381,12 @@
                       hover:bg-theme-100
                     "
                   >
-                    New Private Home Sales Rebound in Nov
+                    New Private Home Sales Rebound in November
                   </NuxtLink>
                 </li>
                 <li>
                   <NuxtLink
-                    to="/singapore-property-market"
+                    to="/press/singapore-property-market"
                     class="
                       inline-block
                       w-full

@@ -2,31 +2,24 @@
   <div>
     <div class="py-12 select-none bg-theme-700">
       <div class="text-xl font-semibold text-center text-white sm:text-4xl">
-        Greater Southern Waterfront URA Masterplan
+        Tanjong Pagar URA Master Plan
       </div>
     </div>
     <section>
       <div class="max-w-6xl px-4 py-12 mx-auto space-y-6">
-        <div>
-          <embed
-            :src="`${url}`"
-            type="application/pdf"
-            frameborder="0"
-            class="w-full h-96"
-          />
-        </div>
-        <div class="text-center">
-          <NuxtLink
-            to="/public/pdf/greater-southern-waterfront-ura-masterplan.pdf"
-            target="_blank"
-            class="font-medium hover:underline"
-          >
-            Click here to view larger chart
-          </NuxtLink>
-        </div>
+        <img
+          src="~assets/img/ura/midtown-modern-ura-master-plan-page-1.png"
+          alt="Tanjong Pagar URA Master Plan"
+          class="mx-auto"
+        />
+        <img
+          src="~assets/img/ura/midtown-modern-ura-master-plan-page-2.png"
+          alt="Tanjong Pagar URA Master Plan"
+          class="mx-auto"
+        />
         <section class="py-6">
           <NuxtLink
-            to="/queenstown-ura-masterplan"
+            to="/tanjong-pagar-ura-master-plan-chinese"
             class="
               inline-flex
               items-center
@@ -42,7 +35,7 @@
               bg-theme-700
             "
           >
-            Continue To Queenstown URA Masterplan
+            Continue To Tanjong Pagar URA Master Plan (Chinese)
             <svg
               fill="none"
               xmlns="http://www.w3.org/2000/svg"
@@ -63,10 +56,3 @@
     <BookAppointment />
   </div>
 </template>
-<script>
-export default {
-  data() {
-     return { url: process.env.BASE_URL ? '/' + process.env.BASE_URL + '/public/pdf/greater-southern-waterfront-ura-masterplan.pdf': '/public/pdf/greater-southern-waterfront-ura-masterplan.pdf'}
-  },
-}
-</script>

@@ -2,24 +2,29 @@
   <div>
     <div class="py-12 select-none bg-theme-700">
       <div class="text-xl font-semibold text-center text-white sm:text-4xl">
-        Greater Sountern Water Front URA Master Plan
+        URA Launches Tender of Bernam Street Site in CBD with 30% More Residential Units
       </div>
     </div>
     <section>
       <div class="max-w-6xl px-4 py-12 mx-auto space-y-6">
         <img
-          src="~assets/img/ura/greater-sountern-water-front-1.jpg"
-          alt="Greater Sountern Water Front URA Master Plan"
+          src="~assets/img/press/URA-launches-tender-of-Bernam-Street-site-in-CBD-with-30-more-reisdential-units-2.png"
+          alt="URA Launches Tender of Bernam Street Site in CBD with 30% More Residential Units"
           class="mx-auto"
         />
         <img
-          src="~assets/img/ura/greater-sountern-water-front-2.jpg"
-          alt="Greater Sountern Water Front URA Master Plan"
+          src="~assets/img/press/URA-launches-tender-of-Bernam-Street-site-in-CBD-with-30-more-reisdential-units-3.png"
+          alt="URA Launches Tender of Bernam Street Site in CBD with 30% More Residential Units"
+          class="mx-auto"
+        />
+        <img
+          src="~assets/img/press/URA-launches-tender-of-Bernam-Street-site-in-CBD-with-30-more-reisdential-units-4.png"
+          alt="URA Launches Tender of Bernam Street Site in CBD with 30% More Residential Units"
           class="mx-auto"
         />
         <section class="py-6">
           <NuxtLink
-            to="/press/alibaba-buy"
+            to="/press/hou-yuan-submits"
             class="
               inline-flex
               items-center
@@ -35,7 +40,7 @@
               bg-theme-700
             "
           >
-            Continue To Alibaba Buys 50% Stake In Singapore Office Building
+            Continue To Hao Yuan Submits Highest Bid of $441 Million for Bernam Street GLS Site
             <svg
               fill="none"
               xmlns="http://www.w3.org/2000/svg"

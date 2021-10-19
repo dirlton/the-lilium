@@ -2,24 +2,24 @@
   <div>
     <div class="py-12 select-none bg-theme-700">
       <div class="text-xl font-semibold text-center text-white sm:text-4xl">
-        Queenstown URA Masterplan
+        Tanjong Pagar URA Master Plan (Chinese)
       </div>
     </div>
     <section>
       <div class="max-w-6xl px-4 py-12 mx-auto space-y-6">
         <img
-          src="~assets/img/Normanton-Park-Queenstown-Draft-Masterplan-pg-1-scaled.jpg"
-          alt="Queenstown URA Masterplan"
+          src="~assets/img/ura/one-bernam-central-area-ura-master-plan-chinese-page-1.png"
+          alt="Tanjong Pagar URA Master Plan (Chinese)"
           class="mx-auto"
         />
         <img
-          src="~assets/img/Normanton-Park-Queenstown-Draft-Masterplan-pg-2-scaled.jpg"
-          alt="Queenstown URA Masterplan"
+          src="~assets/img/ura/one-bernam-central-area-ura-master-plan-chinese-page-2.png"
+          alt="Tanjong Pagar URA Master Plan (Chinese)"
           class="mx-auto"
         />
         <section class="py-6">
           <NuxtLink
-            to="/bukit-merah-ura-masterplan"
+            to="/central-area-ura-masterplan"
             class="
               inline-flex
               items-center
@@ -35,7 +35,7 @@
               bg-theme-700
             "
           >
-            Continue To Bukit Merah URA Masterplan
+            Continue To Central Area URA Master Plan
             <svg
               fill="none"
               xmlns="http://www.w3.org/2000/svg"

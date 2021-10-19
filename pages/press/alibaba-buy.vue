@@ -2,24 +2,29 @@
   <div>
     <div class="py-12 select-none bg-theme-700">
       <div class="text-xl font-semibold text-center text-white sm:text-4xl">
-        Greater Sountern Water Front URA Master Plan
+        Alibaba Buys 50% Stake In Singapore Office Building
       </div>
     </div>
     <section>
       <div class="max-w-6xl px-4 py-12 mx-auto space-y-6">
         <img
-          src="~assets/img/ura/greater-sountern-water-front-1.jpg"
-          alt="Greater Sountern Water Front URA Master Plan"
+          src="~assets/img/press/2020-05-06-Alibaba-Axa-Tower-image.jpg"
+          alt="Alibaba Buys 50% Stake In Singapore Office Building"
           class="mx-auto"
         />
         <img
-          src="~assets/img/ura/greater-sountern-water-front-2.jpg"
-          alt="Greater Sountern Water Front URA Master Plan"
+          src="~assets/img/press/Alibaba-Buys-50-Stake-in-Singapore-Office-Building-1.jpg"
+          alt="Alibaba Buys 50% Stake In Singapore Office Building"
+          class="mx-auto"
+        />
+        <img
+          src="~assets/img/press/Alibaba-Buys-50-Stake-in-Singapore-Office-Building-2.jpg"
+          alt="Alibaba Buys 50% Stake In Singapore Office Building"
           class="mx-auto"
         />
         <section class="py-6">
           <NuxtLink
-            to="/press/alibaba-buy"
+            to="/press/ura-tender"
             class="
               inline-flex
               items-center
@@ -35,7 +40,7 @@
               bg-theme-700
             "
           >
-            Continue To Alibaba Buys 50% Stake In Singapore Office Building
+            Continue To URA Launches Tender of Bernam Street Site in CBD with 30% More Residential Units
             <svg
               fill="none"
               xmlns="http://www.w3.org/2000/svg"
