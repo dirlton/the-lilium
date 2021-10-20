@@ -2,16 +2,16 @@
   <div>
     <div class="py-12 select-none bg-theme-700">
       <div class="text-xl font-semibold text-center text-white sm:text-4xl">
-        Gallery
+        Video
       </div>
     </div>
     <section>
       <div class="max-w-6xl px-4 py-12 mx-auto space-y-6">
-          <ImageModal :images-prop="imageUrl" />
-        </div>
+          <iframe width="1000" height="600" class="mx-auto" src="https://www.youtube.com/embed/oGv1j9a0VCo?version=3&autoplay=1&controls=1&&showinfo=1&loop=1" title="One Bernam" frameborder="0" allow="accelerometer;autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <h3 class="text-center"> Source and Credit to MCC Land Singapore</h3>
         <section class="py-6">
           <NuxtLink
-            to="/video"
+            to="/e-brochure"
             class="
               inline-flex
               items-center
@@ -27,7 +27,7 @@
               bg-theme-700
             "
           >
-            Continue To One Bernam Video
+            Continue To E-Brochure
             <svg
               fill="none"
               xmlns="http://www.w3.org/2000/svg"
@@ -43,26 +43,8 @@
               ></path></svg
           ></NuxtLink>
         </section>
+      </div>
     </section>
     <BookAppointment />
   </div>
 </template>
-<script>
-export default {
-  data() {
-    return {
-      imageUrl: [
-        { url: 'One-bernam-commercial-square.jpg' }, 
-        { url: 'One-Bernam-facade.jpg' },
-        { url: 'one-bernam-function-room.jpg' }, 
-        { url: 'One-bernam-garden-deck.jpg' },
-        { url: 'One-Bernam-hammock-1024x611.jpg' }, 
-        { url: 'one-bernam-landscape.jpg' }, 
-        { url: 'One-bernam-living-room.jpg' },
-        { url: 'One-Bernam-pool.jpg' }, 
-        { url: 'One-Bernam-pool-deck.jpg' }, 
-      ],
-    }
-  },
-}
-</script>

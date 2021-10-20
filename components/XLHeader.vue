@@ -178,6 +178,22 @@
                 </li>
                 <li>
                   <NuxtLink
+                    to="/video"
+                    class="
+                      inline-block
+                      w-full
+                      px-2
+                      py-2
+                      menu-item
+                      text-theme-900
+                      hover:bg-theme-100
+                    "
+                  >
+                    Video
+                  </NuxtLink>
+                </li>
+                <li>
+                  <NuxtLink
                     to="/e-brochure"
                     class="
                       inline-block
@@ -190,6 +206,22 @@
                     "
                   >
                     e-Brochure
+                  </NuxtLink>
+                </li>
+                <li>
+                  <NuxtLink
+                    to="/elevation-chart"
+                    class="
+                      inline-block
+                      w-full
+                      px-2
+                      py-2
+                      menu-item
+                      text-theme-900
+                      hover:bg-theme-100
+                    "
+                  >
+                    Elevation Chart
                   </NuxtLink>
                 </li>
                 <li>
@@ -445,6 +477,22 @@
                     "
                   >
                     Stamp Duty
+                  </NuxtLink>
+                </li>
+                <li>
+                  <NuxtLink
+                    to="/financing/purchase-timeline"
+                    class="
+                      inline-block
+                      w-full
+                      px-2
+                      py-2
+                      menu-item
+                      text-theme-900
+                      hover:bg-theme-100
+                    "
+                  >
+                    Purchase Timeline
                   </NuxtLink>
                 </li>
                 <li>

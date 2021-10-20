@@ -2,16 +2,31 @@
   <div>
     <div class="py-12 select-none bg-theme-700">
       <div class="text-xl font-semibold text-center text-white sm:text-4xl">
-        Gallery
+        Elevation Chart
       </div>
     </div>
     <section>
       <div class="max-w-6xl px-4 py-12 mx-auto space-y-6">
-          <ImageModal :images-prop="imageUrl" />
+        <div>
+          <embed
+            :src="`${url}`"
+            type="application/pdf"
+            frameborder="0"
+            class="w-full h-96"
+          />
+        </div>
+        <div class="text-center">
+          <NuxtLink
+            to="/public/pdf/OB-Draft-Distribution-Chart.pdf"
+            target="_blank"
+            class="font-medium hover:underline"
+          >
+            Click here to view larger chart
+          </NuxtLink>
         </div>
         <section class="py-6">
           <NuxtLink
-            to="/video"
+            to="/balance-units-chart"
             class="
               inline-flex
               items-center
@@ -27,7 +42,7 @@
               bg-theme-700
             "
           >
-            Continue To One Bernam Video
+            Continue To Balance Units Chart
             <svg
               fill="none"
               xmlns="http://www.w3.org/2000/svg"
@@ -43,6 +58,7 @@
               ></path></svg
           ></NuxtLink>
         </section>
+      </div>
     </section>
     <BookAppointment />
   </div>
@@ -50,19 +66,7 @@
 <script>
 export default {
   data() {
-    return {
-      imageUrl: [
-        { url: 'One-bernam-commercial-square.jpg' }, 
-        { url: 'One-Bernam-facade.jpg' },
-        { url: 'one-bernam-function-room.jpg' }, 
-        { url: 'One-bernam-garden-deck.jpg' },
-        { url: 'One-Bernam-hammock-1024x611.jpg' }, 
-        { url: 'one-bernam-landscape.jpg' }, 
-        { url: 'One-bernam-living-room.jpg' },
-        { url: 'One-Bernam-pool.jpg' }, 
-        { url: 'One-Bernam-pool-deck.jpg' }, 
-      ],
-    }
+     return { url: process.env.BASE_URL ? '/' + process.env.BASE_URL + '/public/pdf/OB-Draft-Distribution-Chart.pdf': '/public/pdf/OB-Draft-Distribution-Chart.pdf'}
   },
 }
 </script>

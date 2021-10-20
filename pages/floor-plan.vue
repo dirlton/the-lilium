@@ -8,7 +8,7 @@
     <section>
       <div class="max-w-6xl px-4 py-12 mx-auto space-y-12">
         <div class="space-y-4">
-          <h3 class="text-xl font-semib old sm:text-2xl text-center">
+          <h3 class="text-xl font-semibold sm:text-2xl text-center">
             1 Bedroom
           </h3>
           <BedroomImageModal :bed-room-prop="OneBedroom" />
@@ -21,25 +21,21 @@
         </div>
         <div class="space-y-4">
           <h3 class="text-xl font-semibold sm:text-2xl text-center">
+            2 Bedroom + Study
+          </h3>
+          <BedroomImageModal :bed-room-prop="TwoBedroomStudy" />
+        </div>
+        <div class="space-y-4">
+          <h3 class="text-xl font-semibold sm:text-2xl text-center">
             3 Bedroom
           </h3>
           <BedroomImageModal :bed-room-prop="ThreeBedroom" />
         </div>
         <div class="space-y-4">
           <h3 class="text-xl font-semibold sm:text-2xl text-center">
-            4 Bedroom
+            Penthouse
           </h3>
-          <BedroomImageModal :bed-room-prop="FourBedroom" />
-        </div>
-        <div class="space-y-4">
-          <h3 class="text-xl font-semibold sm:text-2xl text-center">
-            5 Bedroom
-          </h3>
-          <BedroomImageModal :bed-room-prop="FiveBedroom" />
-        </div>
-        <div class="space-y-4">
-          <h3 class="text-xl font-semibold sm:text-2xl text-center">Terrace</h3>
-          <BedroomImageModal :bed-room-prop="Terrance" />
+          <BedroomImageModal :bed-room-prop="Penthouse" />
         </div>
         <section class="py-6">
           <NuxtLink
@@ -86,58 +82,31 @@ export default {
   data() {
     return {
       OneBedroom: [
-        { title: 'Type 1BR-a', url: '1BR-a.png' },
-        { title: 'Type 1BR-aR', url: '1BR-aR.png' },
-        { title: 'Type 1BR-b', url: '1BR-b.png' },
-        { title: 'Type 1BR-bR', url: '1BR-bR.png' },
-        { title: 'Type 1BR-c', url: '1BR-c.png' },
-        { title: 'Type 1BR-cR', url: '1BR-cR.png' },
-        { title: 'Type 1BR-Sa', url: '1BR-Sa.png' },
-        { title: 'Type 1BR-Sb', url: '1BR-Sb.png' },
-        { title: 'Type 1BR-Sc', url: '1BR-Sc.png' },
+        { title: 'Type A1', url: '0001.jpg' },
+        { title: 'Type A2', url: '0002.jpg' },
+        { title: 'Type A3', url: '0003.jpg' },
       ],
       TwoBedroom: [
-        { title: 'Type 2BR-Ca', url: '2BR-Ca.png' },
-        { title: 'Type 2BR-CaR', url: '2BR-CaR.png' },
-        { title: 'Type 2BR-Cb', url: '2BR-Cb.png' },
-        { title: 'Type 2BR-CbR', url: '2BR-CbR.png' },
-        { title: 'Type 2BR-Pa', url: '2BR-Pa.png' },
-        { title: 'Type 2BR-Pb', url: '2BR-Pb.png' },
-        { title: 'Type 2BR-Pc', url: '2BR-Pc.png' },
-        { title: 'Type 2BR-Pd', url: '2BR-Pd.png' },
-        { title: 'Type 2BR-Pe', url: '2BR-Pe.png' },
-        { title: 'Type 2BR-Pf', url: '2BR-Pf.png' },
-        { title: 'Type 2BR-Pg', url: '2BR-Pg.png' },
-        { title: 'Type 2BR-Ph', url: '2BR-Ph.png' },
-        { title: 'Type 2BR-Sa', url: '2BR-Sa.png' },
-        { title: 'Type 2BR-Sb', url: '2BR-Sb.png' },
+        { title: 'Type B1', url: '0004.jpg' },
+        { title: 'Type B2', url: '0005.jpg' },
+        { title: 'Type B3', url: '0006.jpg' },
+        { title: 'Type B4', url: '0007.jpg' },
+      ],
+      TwoBedroomStudy: [
+        { title: 'Type BS1', url: '0008.jpg' },
+        { title: 'Type BS2', url: '0009.jpg' },
+        { title: 'Type BS3', url: '0010.jpg' },
+        { title: 'Type BS4', url: '0011.jpg' },
       ],
       ThreeBedroom: [
-        { title: 'Type 3BR-Ca', url: '3BR-Ca.png' },
-        { title: 'Type 3BR-CaR', url: '3BR-CaR.png' },
-        { title: 'Type 3BR-CaRR', url: '3BR-CaRR.png' },
-        { title: 'Type 3BR-Cb', url: '3BR-Cb.png' },
-        { title: 'Type 3BR-CbR', url: '3BR-CbR.png' },
-        { title: 'Type 3BR-Cc', url: '3BR-Cc.png' },
-        { title: 'Type 3BR-CcR', url: '3BR-CcR.png' },
-        { title: 'Type 3BR-Cd', url: '3BR-Cd.png' },
-        { title: 'Type 3BR-Pa', url: '3BR-Pa.png' },
-        { title: 'Type 3BR-Pb', url: '3BR-Pb.png' },
-        { title: 'Type 3BR-Pc', url: '3BR-Pc.png' },
-        { title: 'Type 3BR-Pd', url: '3BR-Pd.png' },
-        { title: 'Type 3BR-Pe', url: '3BR-Pe.png' },
+        { title: 'Type C1', url: '0012.jpg' },
+
       ],
-      FourBedroom: [
-        { title: 'Type 4BR-Ca', url: '4BR-Ca.png' },
-        { title: 'Type 4BR-Pa', url: '4BR-Pa.png' },
-        { title: 'Type 4BR-Pb', url: '4BR-Pb.png' },
-        { title: 'Type 4BR-Pc', url: '4BR-Pc.png' },
-      ],
-      FiveBedroom: [{ title: 'Type 5BR', url: '5BR.png' }],
-      Terrance: [
-        { title: 'Type Terrace 1', url: 'terrace_1.png' },
-        { title: 'Type Terrace 2', url: 'terrace_2.png' },
-      ],
+      Penthouse: [
+        { title: 'Type E1', url: '0013.jpg' },
+        { title: 'Type E2', url: '0014.jpg' },
+        { title: 'Type E3', url: '0015.jpg' },
+        ],
     }
   },
 }

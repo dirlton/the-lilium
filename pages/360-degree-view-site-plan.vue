@@ -7,25 +7,61 @@
     </div>
     <section>
       <div class="max-w-6xl px-4 py-12 mx-auto space-y-6">
-        <!--
-        <p><iframe class="videoFrame" 
-        src="~pages/share/73kXC.vue" 
-        width="800" height="400" 
-        frameborder="0" allowfullscreen="allowfullscreen">
-        <span style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" 
-        data-mce-type="bookmark" class="mce_SELRES_start">
-        </span>
-        <span style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" data-mce-type="bookmark" class="mce_SELRES_start">
-          </span>
-          </iframe> </p> 
-          -->
-
-          <img
-          src="~assets/img/siteplan-onebernam.jpg"
-          alt="Site Plan"
-          class="mx-auto"
-        /> 
-
+        <h3 class="text-xl font-semibold sm:text-2xl">One Bernam Drone Shot - Site Plan</h3>
+        <iframe 
+          width="1100" 
+          height="600" 
+          class="mx-auto" 
+          src="https://www.mymixgo.com/AUDAX/onebernam-drone/" 
+          title="One Bernam" 
+          frameborder="0" 
+          allowfullscreen>
+          </iframe>
+          <br><br>
+          <h3 class="text-xl font-semibold sm:text-2xl">One Bernam Drone Shot - Standard Room One</h3>
+        <iframe 
+          width="1100" 
+          height="600" 
+          class="mx-auto" 
+          src="https://www.mymixgo.com/AUDAX/onebernam-in/typeb2" 
+          title="One Bernam" 
+          frameborder="0" 
+          allowfullscreen>
+          </iframe>
+          <br><br>
+          <h3 class="text-xl font-semibold sm:text-2xl">One Bernam Drone Shot - Standard Room Two</h3>
+        <iframe 
+          width="1100" 
+          height="600" 
+          class="mx-auto" 
+          src="https://www.mymixgo.com/AUDAX/onebernam-in/typeb4" 
+          title="One Bernam" 
+          frameborder="0" 
+          allowfullscreen>
+          </iframe>
+          <br><br>
+          <h3 class="text-xl font-semibold sm:text-2xl">One Bernam Drone Shot - Type BS2</h3>
+        <iframe 
+          width="1100" 
+          height="600" 
+          class="mx-auto" 
+          src="https://www.mymixgo.com/AUDAX/onebernam-in/typebs2" 
+          title="One Bernam" 
+          frameborder="0" 
+          allowfullscreen>
+          </iframe>
+          <br><br>
+          <h3 class="text-xl font-semibold sm:text-2xl">One Bernam Drone Shot - Type BS4</h3>
+        <iframe 
+          width="1100" 
+          height="600" 
+          class="mx-auto" 
+          src="https://www.mymixgo.com/AUDAX/onebernam-in/typebs4" 
+          title="One Bernam" 
+          frameborder="0" 
+          allowfullscreen>
+          </iframe>
+          <h3 class="text-center sm:text-xl">Powered by Audax Virtuals</h3>
         <section class="py-6">
           <NuxtLink
             to="/floor-plan"

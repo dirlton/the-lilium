@@ -11,12 +11,14 @@
           <NuxtLink to="/public/pdf/OB-E-Brochure.pdf" target="_blank"
             ><img
               src="~assets/img/cover-one-bernam.jpg"
+              width="500"
               alt="Normanton Park e-Brochure"
           /></NuxtLink>
         </div>
+        <h3 class="text-center sm:text-xl">Do <strong>"click"</strong> the above picture to view One Bernam E-Brochure</h3>
         <section class="py-6">
           <NuxtLink
-            to="/balance-units-chart"
+            to="/elevation-chart"
             class="
               inline-flex
               items-center
@@ -32,7 +34,7 @@
               bg-theme-700
             "
           >
-            Continue To Balance Units Chart
+            Continue To Elevation Chart
             <svg
               fill="none"
               xmlns="http://www.w3.org/2000/svg"

@@ -283,7 +283,7 @@
         </div>
         <section class="py-6">
           <NuxtLink
-            to="/financing/payment-scheme"
+            to="/financing/purchase-timeline"
             class="
               inline-flex
               items-center
@@ -299,7 +299,7 @@
               bg-theme-700
             "
           >
-            Continue To Payment Scheme
+            Continue To Purchase Timeline
             <svg
               fill="none"
               xmlns="http://www.w3.org/2000/svg"

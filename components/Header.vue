@@ -281,10 +281,34 @@
                               mobile-sub-menu
                             "
                           >
+                            <NuxtLink to="/video" class="inline-block w-full"
+                              >Video</NuxtLink
+                            >
+                          </li>
+                          <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
                             <NuxtLink
                               to="/e-brochure"
                               class="inline-block w-full"
                               >e-Brochure</NuxtLink
+                            >
+                          </li>
+                          <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink to="/elevation-chart" class="inline-block w-full"
+                              >Elevation Chart</NuxtLink
                             >
                           </li>
                           <li
@@ -565,6 +589,20 @@
                               to="/financing/stamp-duty"
                               class="inline-block w-full"
                               >Stamp Duty</NuxtLink
+                            >
+                          </li>
+                          <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/financing/purchase-timeline"
+                              class="inline-block w-full"
+                              >Purchase Timeline</NuxtLink
                             >
                           </li>
                           <li

@@ -8,7 +8,7 @@
             One Bernam
           </h3>
           <p>
-            Latest Unit Sold: #03-63 (1BR) on 06-May-2021 |
+            Latest Unit Sold: #10-02 | 20th October 2021
             <NuxtLink
               to="/balance-units-chart"
               class="font-medium hover:underline text-theme-600"
@@ -19,39 +19,39 @@
         <div class="py-6 bg-theme-50">
           <div class="text-center">
             <h4 class="text-xl font-medium">Latest Updates</h4>
-            <p class="text-gray-600">Last updated: 6th May 2021</p>
+            <p class="text-gray-600">Last updated: 20th October 2021</p>
           </div>
           <div class="max-w-6xl px-4 mx-auto prose text-gray-800">
             <div class="max-w-2xl px-4 mx-auto">
               <ul>
                 <li>
-                  <strong>06-05-2021:</strong>
+                  <strong>20-10-2021:</strong>
                   <NuxtLink to="/book-an-appointment" class="!text-theme-600"
                     >Book an Appointment</NuxtLink
                   >
-                  to view Normanton Park Show Flat and get Direct Developer
+                  to view One Bernam Show Flat and get Direct Developer
                   Price + Discounts.
                 </li>
                 <li>
-                  <strong>11-02-2021:</strong> Check our latest
+                  <strong>20-10-2021:</strong> Check our latest
                   <NuxtLink to="/pricing" class="!text-theme-600">
-                    Normanton Park Pricing
+                    One Bernam Pricing
                   </NuxtLink>
                   here
                 </li>
                 <li>
-                  <strong>11-02-2021:</strong> Check our latest
+                  <strong>20-10-2021:</strong> Check our latest
                   <NuxtLink to="/balance-units-chart" class="!text-theme-600">
-                    Normanton Park Balance Unit
+                    One Bernam Balance Unit
                   </NuxtLink>
                   here
                 </li>
                 <li>
-                  <strong>12-12-2020:</strong> Check out Normanton Park Pricing
+                  <strong>12-12-2020:</strong> Check out One Bernam Pricing
                   here, which are updated daily
                 </li>
                 <li>
-                  <strong>11-12-2020:</strong>The latest Normanton Park floor
+                  <strong>11-12-2020:</strong>The latest One Bernam floor
                   plan is now available
                 </li>
                 <li>
@@ -89,7 +89,7 @@
                 alt="Normanton Park"
                 class="mx-auto rounded"
               />
-              <p class="text-lg font-semibold">Normanton Park</p>
+              <p class="text-lg font-semibold">One Bernam</p>
               <div class="space-y-4">
                 <p>
                   Normanton Parkis formerly known as 488-unit HUDC (Normanton
