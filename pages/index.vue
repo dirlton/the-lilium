@@ -85,49 +85,53 @@
               "
             >
               <img
-                src="~/assets/img/home/kingsford-logo.png"
-                alt="Normanton Park"
+                src="~/assets/img/home/mcc-houyuan-logo.png"
+                alt="One Bernam"
                 class="mx-auto rounded"
               />
               <p class="text-lg font-semibold">One Bernam</p>
               <div class="space-y-4">
                 <p>
-                  Normanton Parkis formerly known as 488-unit HUDC (Normanton
-                  Park), proudly developed by
                   <NuxtLink
                     to="/developer"
                     class="transition text-theme-600 hover:text-theme-700"
-                    >Kingsford Hurray Development</NuxtLink
-                  >. Kingsford Development was founded during year 2000 by Hong
-                  Kong XINFENG Investment Co. Ltd.
+                    >MCC Land Singapore Pte. Ltd.</NuxtLink> and
+                    <NuxtLink
+                    to="/developer"
+                    class="transition text-theme-600 hover:text-theme-700"
+                    >HY Realty Pte. Ltd.</NuxtLink>
+                    will collaborate on the development of One Bernam in Tanjong Pagar.
                 </p>
                 <p>
-                  Under Kingsford group, organisation business portfolios
-                  include Kingsford Estate, Feng Hua Property Management, Rui
-                  Ying Consulting and North Carbon Manufacturing. Primarily in
-                  the real estate industry from real estate development,
-                  management of property and consulting firm.
+                  
+                  <NuxtLink
+                    to="/developer"
+                    class="transition text-theme-600 hover:text-theme-700"
+                    >HY Realty Pte. Ltd. </NuxtLink> won the government land sales (GLS) bidding from 
+                  the Urban Redevelopment Authority (URA) for Bernam Street's premium location 
+                  in Tanjong Pagar for close to S$441 million.
                 </p>
                 <p>
-                  We have grown our business over the years in Singapore,
-                  Australia and China andsuccessfully developed over hundred
-                  acres of land. Thanks to its unparalleled management, service
-                  and growth model, Kingsford has earned a great reputation both
-                  at home and abroad.
+                  <NuxtLink
+                    to="/developer"
+                    class="transition text-theme-600 hover:text-theme-700"
+                    >MCC Land (Singapore) Pte. Ltd. </NuxtLink>
+                    has been actively involved in Singapore's real estate development since its inception in 2010.
+                    The Group has been rated among Singapore's top ten property developers in recent years, receiving 
+                    Asia's Top Influential Brands Awards and being ranked 290th on the renowned Fortune Global 500.
                 </p>
                 <p>
-                  In Singapore, our previous established track records are
-                  Kingsford Waterbay and Kingsford Hillview Peak. Track record
-                  in China includes, Kingsford Golden Garden, Kingsford Ya Yuan,
-                  Kingsford International and many more.
+                  <NuxtLink
+                    to="/developer"
+                    class="transition text-theme-600 hover:text-theme-700"
+                    >Hao Yuan Realty Pte Ltd</NuxtLink>, founded on June 4, 2010, is a rapidly growing and very prospective property 
+                  developer. HY Realty's main business remains in Singapore's real estate, focusing on executive and private 
+                  residential condominiums, thanks to a strong history and track record.
                 </p>
                 <p>
-                  Normanton Park condo in District 5 will be the next mega
-                  luxurious residential project. Comprising 1840 residences, 22
-                  landed units and 8 shop units. Homeowners and Investors of
-                  Normanton Park can expect a mega residential development with
-                  complete amenities and units comes with stunning metropolis
-                  and ocean views.
+                  The corporation has bid $485.81 million for a 36.8-acre land piece in Malaysia's Iskandar Waterfront, 
+                  with intentions to develop the site into a number of high-end retail, commercial, and residential buildings 
+                  with MCC Land over the following eight years.
                 </p>
               </div>
             </div>
@@ -145,49 +149,49 @@
             >
               <img
                 src="~/assets/img/home/home-showflat-location-singapore.jpg"
-                alt="Normanton Park Location Map"
+                alt="One Bernam Location Map"
                 class="mx-auto rounded"
               />
-              <p class="text-lg font-semibold">Normanton Park Location Map</p>
+              <p class="text-lg font-semibold">One Bernam Location Map</p>
               <div class="space-y-4">
                 <p>
-                  Normanton Park is situated in Coveted District Five.
+                  One Bernam's unique and sought-after location is unquestionably advantageous to well-heeled investors. 
                   <NuxtLink
                     to="/location-map"
                     class="transition text-theme-600 hover:text-theme-700"
-                    >Located at One Normanton Park</NuxtLink
-                  >
-                  road with Kent Ridge Hill Park as the backdrop. It is formerly
-                  a HUDC development with 488 units, which was acquired by
-                  Kingsford Hurayvia en-bloc sales at $830.1 million.
+                    >One Bernam</NuxtLink> is located in the heart of downtown Tanjong Pagar in Singapore's CDB's premier district 2, 
+                  which has an excellent mix of both cultural and historical history.
                 </p>
                 <p>
-                  Nearest MRT from Normanton Park is Kent Ridge Station (CC24),
-                  5 stops away to Harbour Front Station (CC29) which connects to
-                  North East Line. As announce during Greater Southern
-                  Waterfront Master Plan by Prime Minister Lee, 3 MRT Station
-                  extension of Circle Line. The Keppel Station, Cantonment
-                  Station and Prince Edward Station would be completed by 2025.
-                  With the completion of Circle line, it forms a full circle
-                  creating seamless connectivity to the rest of Singapore.
+                  Situated right in the heart of Tanjong Pagar in CBD, this up and coming upmarket luxe condo will get to 
+                  ride on Singapore’s 2 major rejuvenation announced as Downtown Masterplan 2019 to bring about work life balance 
+                  in this core central area together with the 
+                  <NuxtLink
+                    to="/greater-sountern-water-front"
+                    class="transition text-theme-600 hover:text-theme-700"
+                    >Greater Southern Waterfront Masterplan</NuxtLink>.
                 </p>
                 <p>
-                  With several up upcoming transformation, not just benefiting
-                  from Greater Southern Waterfront Masterplan. Normanton Park
-                  falls under multiple URA masterplan in the surrounding such as
-                  Bukit Merah Master Plan and Queenstown Master Plan.
+                  One Bernam gives you the supremacy in <NuxtLink
+                    to="/location-map"
+                    class="transition text-theme-600 hover:text-theme-700"
+                    >location</NuxtLink> for you to embrace the quality life, history and prosperity of Singapore. 
+                  One Bernam is located at Bernam Street, right in the heart of the city. With upcoming Prince Edward Road MRT Station (CC32 ) 
+                  and Tanjong Pagar MRT station (EW15) just 5 minutes stroll from One Bernam, taking the MRT will easily be your preferred mode 
+                  of transport to travel through the city and other parts of Singapore easily without any hassle.
                 </p>
                 <p>
-                  Driving made easy with superb connectivity to expressway (AYE)
-                  Ayer Rajah Expressway, (CTE) Central Expressway, West Coast
-                  Highway. Main road like Alexandra Road and Farrer Road helps
-                  connecting to different part of Singapore.
+                  Well, if your preference is to drive, there are several choices you have from Ayer Rajah Expressway (AYE), Marine Coastal Expressway (MCE) 
+                  and Keppel Road. Northern Singapore and East Coast Park will be linked by the new North-South corridor (NSC) and commences operation by end 
+                  of 2020. The introduction of NSC is to combine and merge bus and cycling lanes together.
                 </p>
                 <p>
-                  Daily grocery and shopping made easy with wide array of
-                  choices that could be found around the vicinity. Multiple
-                  shopping centres within reach of a short drive ie. The Star,
-                  One North, Queensway Shopping Centre, IKEA and many more…
+                  Situated right in the heart of Singapore and having incomparable connectivity to any part of Singapore will make going out difficult to resist. 
+                  Discover more exciting amenities in Tanjong Pagar by exploring our 
+                  <NuxtLink
+                    to="/location-map"
+                    class="transition text-theme-600 hover:text-theme-700"
+                    >One Bernam location map</NuxtLink>.
                 </p>
               </div>
             </div>
@@ -205,17 +209,17 @@
             >
               <img
                 src="~/assets/img/home/home-direct-developer-sales.png"
-                alt="Normanton Park Showflat"
+                alt="One Bernam Showflat"
                 class="mx-auto rounded"
               />
-              <p class="text-lg font-semibold">Normanton Park Showflat</p>
+              <p class="text-lg font-semibold">One Bernam Showflat</p>
               <div class="space-y-4">
                 <p>
                   Secure your
                   <NuxtLink
                     to="/book-an-appointment"
                     class="transition text-theme-600 hover:text-theme-700"
-                    >Normanton Park Showflat appointment here</NuxtLink
+                    >One Bernam Showflat appointment here</NuxtLink
                   >, register via our official site. Or contact us at +65 6100
                   3337 before making your way down the showflat. Showflat will
                   be closed on certain days due to routine maintenance work or
@@ -226,7 +230,7 @@
                 <p>
                   Due to COVID19, there will be LIMITED time slot per day,
                   please reserve an appointment online before making your way
-                  down to Normanton Park ShowFlat.
+                  down to One Bernam ShowFlat.
                 </p>
                 <p>
                   All registrants who have
@@ -244,11 +248,6 @@
                 <p>
                   Any price changes will be subjected to changes without any
                   prior notice.
-                </p>
-                <p>
-                  Do not miss 2021 Mega project of the year Normanton Park by
-                  Kingsford Huray Development. From 1 bedroom – 5 bedroom units,
-                  it caters to different needs of a investor or homeowners.
                 </p>
               </div>
             </div>
@@ -296,71 +295,58 @@
         <div class="max-w-6xl px-4 mx-auto prose">
           <div>
             <h3 class="text-xl font-semibold sm:text-2xl text-center">
-              Normanton Park Amenities and Convenience at Your Doorstep
+              Right at the Heart of Tanjong Pagar
             </h3>
-            <p>
-              Normanton Park formerly known as Normanton Park HUDC, will be the
-              biggest development in 2021 comprising close to 1900 unit. It will
-              be the 2"d largest private condominium in Singapore, first being
-              Treasures at Tampines with 2203 unit
-            </p>
-            <p>
-              Built in 1977 for Singapore Arm Forces personnel, was privatised
-              to condominium in 2012. First collective sales was put up in 2015
-              but successful till 2. collective sales in 2017.
-              <NuxtLink
-                to="/developer"
-                class="transition text-theme-600 hover:text-theme-700"
-                >Kingsford Huray Development</NuxtLink
-              >
-              triumphantly won the bid at the price of $8301M.
-            </p>
-            <p>
-              Positioned in the Coveted District 5,
-              <NuxtLink
+           <p>
+             Many people are familiar with Bernam Street. <NuxtLink
                 to="/location-map"
                 class="transition text-theme-600 hover:text-theme-700"
-                >Normanton Park Condo is located at 1-13 Normanton Park
-                Singapore</NuxtLink
-              >. This will be the most desired upcoming mega launch in the area.
-              9 grandiloquent towers topping at the height of 24-levels, comes
-              with stunning views overlooking on different part of Singapore.
-              Peerless land site of approximate 660,999 scift, encompass 1840
-              residences, 22 Strata Landed, 1 Restaurant Shop and 7 Retail Store
-            </p>
-            <p>
-              Normanton Park falls under multiple URA masterplan in the
-              surrounding. This Mega Launch of the year will definitely benefit
-              from the transformation of Greater Southern Waterfront Masterplan,
-              Bukit Merah Master Plan and Queenstown Master Plan
-            </p>
-            <p>
-              Within Normanton Park comes with huge land seeping and full condo
-              facilities, catering the needs of all residents. Externally, the
-              location provides with wide array of grocery and shopping choices
-              that could be found around the vicinity. Multiple shopping centres
-              within reach of a short drive ie. The Star, One North, Queensway
-              Shopping Centre, IKEA and many more
-            </p>
-            <p>
-              Nearest MT from Normanton Park is Kent Ridge Station (CC24), 5
-              stops away to Harbour Front Station (CC29) which connects to North
-              East Line. As announce during Greater Southern Waterfront Master
-              Plan by Prime Minister Lee, 3 MRT Station extension of Circle
-              Line. The Keppel Station, Cantonment Station and Prince Edward
-              Station will be completed by 2025. With the completion of Circle
-              line, it forms a full circle creating seamless connectivity to the
-              rest of Singapore.
-            </p>
-            <p>
-              To all aspiring Homeowners and Investors of Normanton Park, you
-              can explore or download Normanton Park E-Brochrue and Normanton
-              Park Floor Plan here
-            </p>
-            <p>
-              Normanton Park VIP Preview dates and Price will be revealed
-              soon.... Stay tuned for more
-            </p>
+                >One Bernam</NuxtLink
+              > is located in District 2 Tanjong Pagar, within the Anson precinct, 
+             directly in the heart of the CBD. Tanjong Pagar MRT Station (EW15) and the upcoming Prince Edward Road MRT Station are both 
+             about a 5-minute walk away (CC32).
+             </p>
+             <p>
+               Major highways such as Keppel and Anson Road, as well as major expressways such as the Marina Coastal Expressway (MCE) 
+               and the Ayer Rajah Expressway, will make this new mixed development extremely accessible (AYE). The proposed bicycle network 
+               in the Rail Corridor at the former Tanjong Pagar Railway Station and the Central Business District will be effectively connected 
+               and easily accessible to One Bernam (CBD).
+               </p>
+               <p>
+                 One Bernam will contain at least 351 residential units and a commercial and retail level on the first floor. This much-anticipated 
+                 mixed-use complex will provide unending excitement for city-dwellers, with convenient access to work in the CBD and a dynamic lifestyle 
+                 offering and amenities available 24 hours a day, seven days a week. 
+                 </p>
+                 <br>
+                 <h3 class="text-xl font-semibold sm:text-2xl text-center">
+                   Surrounded by Trendy Malls &amp; Grade-A Offices
+                      </h3>
+                  <p>
+                    <NuxtLink
+                to="/location-map"
+                class="transition text-theme-600 hover:text-theme-700"
+                >One Bernam</NuxtLink>     
+                    is only a short distance away from local shopping malls such as Icon Village, 100AM, Parco, Amara Shopping Centre, and 
+                    Tanjong Pagar Plaza, which can provide you with a fashionable and dynamic lifestyle with a diverse range of facilities, 
+                    F&amp;B, and retail outlets.
+                    </p>
+                    <p>
+                      Every second of your attention is drawn to themed coffee shops/cafés and prominent fashion labels. If you like lots of green places 
+                      and prefer to relax outside, Tras Link Park is just a short distance away. One Bernam Singapore is flanked by many fascinating malls 
+                      and numerous Grade A office skyscrapers, providing investors with a ready pool of quality expat tenants.
+                      </p>
+                      <p>
+                        One Bernam is ideal for those seeking superior connectedness and vibrant lifestyles in the heart of the city. All interested parties 
+                        can get a free copy of the
+                        <NuxtLink
+                          to="/e-brochure"
+                          class="transition text-theme-600 hover:text-theme-700"
+                          >One Bernam E-Brochure</NuxtLink> and
+                          <NuxtLink
+                          to="/floor-plan"
+                          class="transition text-theme-600 hover:text-theme-700"
+                          >Floor Plan</NuxtLink> by clicking here.
+                        </p>
           </div>
           <div class="grid grid-cols-2 gap-2 lg:gap-6 lg:grid-cols-4">
             <img
