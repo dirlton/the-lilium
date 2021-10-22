@@ -12,13 +12,13 @@
             <div class="grid grid-cols-1 gap-6 sm:grid-cols-2">
               <div>
                 <label class="block text-gray-500">Developer</label>
-                <p>MCC &amp; HY Realty PTE LTD (Bernam)</p>
+                <p>MCC &amp; HY Realty Pte. Ltd. (Bernam)</p>
               </div>
               <div>
                 <label class="block text-gray-500"
                   >Developer's License No.</label
                 >
-                <p>TBA</p>
+                <p>201930468M</p>
               </div>
               <div>
                 <label class="block text-gray-500">Location</label>
@@ -30,7 +30,7 @@
               </div>
               <div>
                 <label class="block text-gray-500">Gross Floor Area</label>
-                <p>Approx. 28,001 sqm / 30.141 sqft</p>
+                <p>Approx. 30,077 sqm / 323,758 sqft</p>
               </div>
               <div>
                 <label class="block text-gray-500">Site Area</label>
@@ -38,7 +38,7 @@
               </div>
               <div>
                 <label class="block text-gray-500">Carpark Lots</label>
-                <p>TBA</p>
+                <p>178 Lots (inclusive of 6 Carpark Lots (comprised in 3 Accessory Lots) for penthouse units and 2 Accessible Lots)</p>
               </div>
               <div>
                 <label class="block text-gray-500">District</label>
@@ -62,7 +62,7 @@
               </div>
               <div>
                 <label class="block text-gray-500">Landscape Consultant</label>
-                <p>TBA</p>
+                <p>DP Green</p>
               </div>
               <div>
                 <label class="block text-gray-500">Address</label>

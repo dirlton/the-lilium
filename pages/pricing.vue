@@ -134,7 +134,7 @@
                       <td class="px-6 py-4 whitespace-nowrap">
                         Penthouse
                       </td>
-                      <td class="px-6 py-4 whitespace-nowrap">E1, E2, E3/td>
+                      <td class="px-6 py-4 whitespace-nowrap">E1, E2, E3</td>
                       <td class="px-6 py-4 whitespace-nowrap">1, 2, 3</td>
                       <td class="px-6 py-4 whitespace-nowrap">1,744, 1,948, 4,306</td>
                       <td class="px-6 py-4 whitespace-nowrap text-center">$6,793,000</td>
@@ -150,8 +150,8 @@
                   This webpage cannot be held responsible for any inaccuracies, omissions and/or dispute.)</h1>
         </div>
         <section class="py-6">
-          <a
-            href="/gallery"
+          <NuxtLink
+            to="/gallery"
             class="
               inline-flex
               items-center
@@ -181,7 +181,7 @@
                 stroke-linecap="round"
                 stroke-linejoin="round"
               ></path></svg
-          ></a>
+          ></NuxtLink>
         </section>
       </div>
     </section>
