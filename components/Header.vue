@@ -5840,7 +5840,7 @@
                             hover:text-theme-900 hover:bg-theme-200
                           "
                         >
-                          <p>One Bernam</p>
+                          <p>The Gazania</p>
                           <svg
                             fill="currentColor"
                             viewBox="0 0 24 24"
@@ -5899,20 +5899,6 @@
                               to="/site-plan"
                               class="inline-block w-full"
                               >Site Plan</NuxtLink
-                            >
-                          </li>
-                          <li
-                            class="
-                              ml-3
-                              transition
-                              hover:text-theme-600
-                              mobile-sub-menu
-                            "
-                          >
-                            <NuxtLink
-                              to="/360-degree-view-site-plan"
-                              class="inline-block w-full"
-                              >360 Degree View Site Plan</NuxtLink
                             >
                           </li>
                           <li
