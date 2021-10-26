@@ -5,12 +5,12 @@ export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
   router: {
-    base: '/one-bernam',
+    base: '/the-gazania',
   },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'One Bernam',
+    title: 'The Gazania',
     htmlAttrs: {
       lang: 'en',
     },

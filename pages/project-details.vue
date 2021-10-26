@@ -12,74 +12,80 @@
             <div class="grid grid-cols-1 gap-6 sm:grid-cols-2">
               <div>
                 <label class="block text-gray-500">Developer</label>
-                <p>MCC &amp; HY Realty Pte. Ltd. (Bernam)</p>
-              </div>
-              <div>
-                <label class="block text-gray-500"
-                  >Developer's License No.</label
-                >
-                <p>201930468M</p>
+                <p>SingHaiyi Huajiang Sun Pte. Ltd.</p>
               </div>
               <div>
                 <label class="block text-gray-500">Location</label>
-                <p>Bernam Street / Anson Road Precinct</p>
-              </div>
-              <div>
-                <label class="block text-gray-500">Tenure of Land</label>
-                <p>99 year leasehold</p>
-              </div>
-              <div>
-                <label class="block text-gray-500">Gross Floor Area</label>
-                <p>Approx. 30,077 sqm / 323,758 sqft</p>
-              </div>
-              <div>
-                <label class="block text-gray-500">Site Area</label>
-                <p>Approx. 3,846.2 sqm or 41,400 sqft</p>
-              </div>
-              <div>
-                <label class="block text-gray-500">Carpark Lots</label>
-                <p>178 Lots (inclusive of 6 Carpark Lots (comprised in 3 Accessory Lots) for penthouse units and 2 Accessible Lots)</p>
+                <p>How Sun Drive, Singapore</p>
               </div>
               <div>
                 <label class="block text-gray-500">District</label>
-                <p>2</p>
+                <p>District 19</p>
               </div>
               <div>
-                <label class="block text-gray-500">No. of Blocks</label>
-                <p>38 Blocks</p>
+                <label class="block text-gray-500">Site Area</label>
+                <p>146,046 sqft</p>
               </div>
               <div>
-                <label class="block text-gray-500">No. of Storeys</label>
-                <p>2 Storey Commercial, One Storey Service Apartments (13 Units) and 32 Residential Units with Swimming Pool</p>
+                <label class="block text-gray-500">Solicitor</label>
+                <p>Allen &amp; Gledhill LLP</p>
               </div>
               <div>
-                <label class="block text-gray-500">No. of Units</label>
-                <p>351 Residential Units</p>
+                <label class="block text-gray-500">Project Account No.</label>
+                <p>712-599323-001</p>
               </div>
               <div>
                 <label class="block text-gray-500">Architect</label>
-                <p>DP Architect PTE LTD.</p>
+                <p>RSP Architects Planners &amp; Engineers Pte. Ltd.</p>
+              </div>
+              <div>
+                <label class="block text-gray-500">Main Contractor</label>
+                <p>China Construction Development Co. Pte. Ltd.</p>
+              </div>
+              <div>
+                <label class="block text-gray-500">M &amp; E Consultant</label>
+                <p>Alpha Consulting Engineers Pte. Ltd.</p>
               </div>
               <div>
                 <label class="block text-gray-500">Landscape Consultant</label>
-                <p>DP Green</p>
+                <p>COEN Design International Pte. Ltd.</p>
               </div>
               <div>
                 <label class="block text-gray-500">Address</label>
-                <p>Bernam Street</p>
+                <p>5, 7, 9, 11, 15, 17, 19 How Sun Drive, Singapore</p>
+              </div>
+              <div>
+                <label class="block text-gray-500">No. of Storeys</label>
+                <p>5 Storeys</p>
+              </div>
+              <div>
+                <label class="block text-gray-500">Tenure</label>
+                <p>Freehold</p>
+              </div>
+              <div>
+                <label class="block text-gray-500">Site Use</label>
+                <p>Residential Condominium</p>
+              </div>
+              <div>
+                <label class="block text-gray-500">Total No. of Units</label>
+                <p>250 Residential Units</p>
+              </div>
+              <div>
+                <label class="block text-gray-500">No. of Car Park Lots</label>
+                <p>255 Excluding 7 Handicapped Lots</p>
               </div>
               <div>
                 <label class="block text-gray-500">Expected Date of TOP</label>
-                <p>30 June 2025</p>
+                <p>July 2022</p>
               </div>
               <div>
                 <label class="block text-gray-500">Expected Date of Legal Completion</label>
-                <p>30 June 2027</p>
+                <p>TBA</p>
               </div>
             </div>
           </div>
           <div class="py-4 italic text-center text-gray-500">
-            (Project details for One Bernam 柏南華庭 may be subjected to change without prior notice)
+            (Project details for The Gazania may be subjected to change without prior notice)
           </div>
           <section class="py-6">
             <NuxtLink

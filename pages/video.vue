@@ -7,8 +7,17 @@
     </div>
     <section>
       <div class="max-w-6xl px-4 py-12 mx-auto space-y-6">
-          <iframe width="1000" height="600" class="mx-auto" src="https://www.youtube.com/embed/oGv1j9a0VCo?version=3&autoplay=1&controls=1&&showinfo=1&loop=1" title="One Bernam" frameborder="0" allow="accelerometer;autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <h3 class="text-center"> Source and Credit to MCC Land Singapore</h3>
+          <iframe 
+          width="1000" 
+          height="600" 
+          class="mx-auto" 
+          src="https://www.youtube.com/embed/2ypvzPCVHg4?version=3&autoplay=1&controls=1&&showinfo=1&loop=1" 
+          title="The Gazania" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+          </iframe>
+        <h3 class="text-center"> Source and Credit to The Lilium The Gazania</h3>
         <section class="py-6">
           <NuxtLink
             to="/e-brochure"

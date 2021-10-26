@@ -8,18 +8,8 @@
     <section>
       <div class="max-w-6xl px-4 py-12 mx-auto space-y-6">
         <img
-          src="~assets/img/siteplan-onebernam-1.jpg"
+          src="~assets/img/gazania-site-plan.jpg"
           alt="Site Plan L1"
-          class="mx-auto"
-        />
-        <img
-          src="~assets/img/siteplan-onebernam-2.jpg"
-          alt="Site Plan L4"
-          class="mx-auto"
-        />
-        <img
-          src="~assets/img/siteplan-onebernam-3.jpg"
-          alt="Site Plan L34"
           class="mx-auto"
         />
         <section class="py-6">

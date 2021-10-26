@@ -29,7 +29,7 @@
         </div>
         <div class="text-center">
           <NuxtLink
-            to="/public/pdf/one-bernam-balance-chart.pdf"
+            to="/public/pdf/gazania-balance-chart.pdf"
             target="_blank"
             class="font-medium hover:underline"
           >
@@ -78,7 +78,7 @@
 <script>
 export default {
   data() {
-    return { url: process.env.BASE_URL ? '/' + process.env.BASE_URL + '/public/pdf/one-bernam-balance-chart.pdf': '/public/pdf/one-bernam-balance-chart.pdf'}
+    return { url: process.env.BASE_URL ? '/' + process.env.BASE_URL + '/public/pdf/gazania-balance-chart.pdf': '/public/pdf/gazania-balance-chart.pdf'}
   },
 }
 </script>
