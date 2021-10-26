@@ -7,7 +7,7 @@
     </div>
     <section>
       <div class="max-w-6xl px-4 py-12 mx-auto space-y-6">
-        <h3 class="text-xl font-semibold sm:text-2xl">One Bernam Drone Shot - Site Plan</h3>
+        <h3 class="text-xl font-semibold sm:text-2xl">One Bernam Drone Shot - Site Plans</h3>
         <iframe 
           width="1100" 
           height="600" 
