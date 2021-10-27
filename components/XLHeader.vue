@@ -2455,7 +2455,7 @@
               >
                 <li>
                   <NuxtLink
-                    to="/tanjong-pagar-ura-master-plan"
+                    to="/serangoon-ura-masterplan"
                     class="
                       inline-block
                       w-full
@@ -2466,12 +2466,12 @@
                       hover:bg-theme-100
                     "
                   >
-                    Bartley Master Plan
+                    Serangoon URA Master Plan
                   </NuxtLink>
                 </li>
                 <li>
                   <NuxtLink
-                    to="/tanjong-pagar-ura-master-plan-chinese"
+                    to="/payar-lebar"
                     class="
                       inline-block
                       w-full
@@ -2487,7 +2487,7 @@
                 </li>
                 <li>
                   <NuxtLink
-                    to="/central-area-ura-masterplan"
+                    to="/bidadari-estate"
                     class="
                       inline-block
                       w-full
@@ -2527,7 +2527,7 @@
               >
                 <li>
                   <NuxtLink
-                    to="/press/alibaba-buy"
+                    to="/press/press-one"
                     class="
                       inline-block
                       w-full
@@ -2543,7 +2543,7 @@
                 </li>
                 <li>
                   <NuxtLink
-                    to="/press/ura-tender"
+                    to="/press/press-two"
                     class="
                       inline-block
                       w-full
@@ -2559,7 +2559,7 @@
                 </li>
                 <li>
                   <NuxtLink
-                    to="/press/hou-yuan-submits"
+                    to="/press/press-three"
                     class="
                       inline-block
                       w-full
@@ -2575,7 +2575,7 @@
                 </li>
                 <li>
                   <NuxtLink
-                    to="/press/new-private-home-sales"
+                    to="/press/press-four"
                     class="
                       inline-block
                       w-full
@@ -2591,7 +2591,7 @@
                 </li>
                 <li>
                   <NuxtLink
-                    to="/press/singapore-property-market"
+                    to="/press/press-five"
                     class="
                       inline-block
                       w-full
@@ -2602,7 +2602,7 @@
                       hover:bg-theme-100
                     "
                   >
-                    Private Home Prices Rise 0.9% In Q3; Second Consecutive Quarter Of Increase
+                    Singapore Developers Sell 952 Private Homes in May, Up 29.5% From April's 735 Units
                   </NuxtLink>
                 </li>
               </ul>

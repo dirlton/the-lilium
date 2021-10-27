@@ -5825,7 +5825,7 @@
                       </NuxtLink>
                     </div>
                     <div>
-                      <div class="cursor-pointer" @click.prevent="obMenuClick">
+                      <div class="cursor-pointer" @click.prevent="tgMenuClick">
                         <div
                           class="
                             flex
@@ -5854,7 +5854,7 @@
                         <ul
                           class="py-2 space-y-2 text-gray-600"
                           :style="
-                            oneBernamSubmenu
+                            theGazaniaSubmenu
                               ? 'display: block'
                               : 'display: none'
                           "
@@ -5998,7 +5998,7 @@
                     <div>
                       <div
                         class="cursor-pointer"
-                        @click.prevent="tanjongMenuClick"
+                        @click.prevent="bidadariMenuClick"
                       >
                         <div
                           class="
@@ -6014,7 +6014,7 @@
                             hover:text-theme-900 hover:bg-theme-200
                           "
                         >
-                          <p>Tanjong Pagar</p>
+                          <p>Bidadari</p>
                           <svg
                             fill="currentColor"
                             viewBox="0 0 24 24"
@@ -6028,7 +6028,7 @@
                         <ul
                           class="py-2 space-y-2 text-gray-600"
                           :style="
-                            tanjongSubmenu ? 'display: block' : 'display: none'
+                            bidadariSubmenu ? 'display: block' : 'display: none'
                           "
                         >
                           <li
@@ -6040,10 +6040,10 @@
                             "
                           >
                             <NuxtLink
-                              to="/tanjong-pagar-ura-master-plan"
+                              to="/serangoon-ura-masterplan"
                               class="inline-block w-full"
                             >
-                              Tanjong Pagar URA Master Plan
+                              Serangoon Ura Master Plan
                             </NuxtLink>
                           </li>
                           <li
@@ -6055,10 +6055,10 @@
                             "
                           >
                             <NuxtLink
-                              to="/tanjong-pagar-ura-master-plan-chinese"
+                              to="/payar-lebar"
                               class="inline-block w-full"
                             >
-                              Tanjong Pagar URA Master Plan (Chinese)
+                              Payar Lebar Airbase
                             </NuxtLink>
                           </li>
                           <li
@@ -6070,25 +6070,10 @@
                             "
                           >
                             <NuxtLink
-                              to="/central-area-ura-masterplan"
+                              to="/bidadari-estate"
                               class="inline-block w-full"
                             >
-                              Central Area URA Master Plan
-                            </NuxtLink>
-                          </li>
-                          <li
-                            class="
-                              ml-3
-                              transition
-                              hover:text-theme-600
-                              mobile-sub-menu
-                            "
-                          >
-                            <NuxtLink
-                              to="/greater-sountern-water-front"
-                              class="inline-block w-full"
-                            >
-                              Greater Sountern Water Front URA Master Plan
+                              URA: Bidadari Estate
                             </NuxtLink>
                           </li>
                         </ul>
@@ -6139,10 +6124,10 @@
                             "
                           >
                             <NuxtLink
-                              to="/press/alibaba-buy"
+                              to="/press/press-one"
                               class="inline-block w-full"
                             >
-                              Alibaba Buy 50% Stake in Singapore Office Building
+                              Govt Cuts Private Housing Supply From Confirmed Land Sale Sites
                             </NuxtLink>
                           </li>
                           <li
@@ -6154,10 +6139,10 @@
                             "
                           >
                             <NuxtLink
-                              to="/press/ura-tender"
+                              to="/press/press-two"
                               class="inline-block w-full"
                             >
-                              URA Launches Tender of Bernam Street Site in CBD
+                              Easing Singapore Property Curbs Not On Radar Says DPM Heng
                             </NuxtLink>
                           </li>
                           <li
@@ -6169,10 +6154,10 @@
                             "
                           >
                             <NuxtLink
-                              to="/press/hou-yuan-submits"
+                              to="/press/press-three"
                               class="inline-block w-full"
                             >
-                              Hao Yuan Submits Highest Bid of $441 Million for Bernam Street GLS Site
+                              2019 New Home Sales Top 10,000 Units, Up 15% From Year Ago
                             </NuxtLink>
                           </li>
                           <li
@@ -6184,10 +6169,10 @@
                             "
                           >
                             <NuxtLink
-                              to="/press/new-private-home-sales"
+                              to="/press/press-four"
                               class="inline-block w-full"
                             >
-                              New Private Home Sales Rebound in November
+                              Singapore's Property Market Can Withstand The Impact Of Covid-19
                             </NuxtLink>
                           </li>
                           <li
@@ -6199,10 +6184,10 @@
                             "
                           >
                             <NuxtLink
-                              to="/press/singapore-property-market"
+                              to="/press/press-five"
                               class="inline-block w-full"
                             >
-                              Singapore Property Market Expected to Hold Steady in 2020
+                              Singapore Developers Sell 952 Private Homes in May, Up 29.5% From April's 735 Units
                             </NuxtLink>
                           </li>
                         </ul>
@@ -6408,8 +6393,8 @@ export default {
   data() {
     return {
       menuIsActive: false,
-      oneBernamSubmenu: false,
-      tanjongSubmenu: false,
+      theGazaniaSubmenu: false,
+      bidadariSubmenu: false,
       pressSubmenu:false,
       financingSubmenu: false,
     }
@@ -6423,11 +6408,11 @@ export default {
     menuClick() {
       this.menuIsActive = !this.menuIsActive
     },
-    obMenuClick() {
-      this.oneBernamSubmenu = !this.oneBernamSubmenu
+    tgMenuClick() {
+      this.theGazaniaSubmenu = !this.theGazaniaSubmenu
     },
-    tanjongMenuClick() {
-      this.tanjongSubmenu = !this.tanjongSubmenu
+    bidadariMenuClick() {
+      this.bidadariSubmenu = !this.bidadariSubmenu
     },
     financingMenuClick() {
       this.financingSubmenu = !this.financingSubmenu

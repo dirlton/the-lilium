@@ -7,13 +7,15 @@
     </div>
     <section>
       <div class="max-w-6xl px-4 py-12 mx-auto space-y-6">
-        <img
-          src="~assets/img/one-bernam-location-map.jpg"
-          alt="Location Map"
-          class="mx-auto"
-        />
+        <NuxtLink to="/public/pdf/location-map-gazania.pdf" target="_blank"
+            ><img
+              src="~assets/img/location-map-gazania.jpg"
+              class="mx-auto"
+              alt="The Gazania Location Map"
+          /></NuxtLink>
+          <h3 class="text-center sm:text-xl">Do <strong>"click"</strong> the above picture to view The Gazania Location Map</h3>
         <h3 class="text-xl font-semibold sm:text-2xl">
-          Amenities @ One Bernam
+          Amenities @ The Gazania
         </h3>
         <div class="p-4 space-y-3 bg-white shadow-md">
           <h4 class="text-xl font-semibold tracking-wider text-theme-600">

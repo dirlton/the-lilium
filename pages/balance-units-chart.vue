@@ -38,7 +38,7 @@
         </div>
         <section class="py-6">
           <NuxtLink
-            to="/tanjong-pagar-ura-master-plan"
+            to="/serangoon-ura-masterplan"
             class="
               inline-flex
               items-center
@@ -54,7 +54,7 @@
               bg-theme-700
             "
           >
-            Continue To Tanjong Pagar URA Master Plan
+            Continue To Serangoon URA Master Plan
             <svg
               fill="none"
               xmlns="http://www.w3.org/2000/svg"

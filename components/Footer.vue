@@ -15,7 +15,7 @@
             <h4 class="text-xl font-medium">The Gazania</h4>
             <ul class="space-y-3 text-gray-600">
               <li>Developer: SingHaiyi Huajiang Sun Pte. Ltd.</li>
-              <li>Tenure of Land: Freehold/li>
+              <li>Tenure of Land: Freehold</li>
               <li>Site Area: 146,046 sqft</li>
               <li>Expected TOP: July 2022</li>
             </ul>

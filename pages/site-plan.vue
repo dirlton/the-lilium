@@ -14,7 +14,7 @@
         />
         <section class="py-6">
           <NuxtLink
-            to="/360-degree-view-site-plan"
+            to="/floor-plan"
             class="
               inline-flex
               items-center
@@ -30,7 +30,7 @@
               bg-theme-700
             "
           >
-            Continue To One Benam 360 View 
+            Continue To Floor Plan 
             <svg
               fill="none"
               xmlns="http://www.w3.org/2000/svg"

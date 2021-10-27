@@ -27,7 +27,7 @@
               bg-theme-700
             "
           >
-            Continue To One Bernam Video
+            Continue To The Gazania Video
             <svg
               fill="none"
               xmlns="http://www.w3.org/2000/svg"
@@ -52,15 +52,15 @@ export default {
   data() {
     return {
       imageUrl: [
-        { url: 'One-bernam-commercial-square.jpg' }, 
-        { url: 'One-Bernam-facade.jpg' },
-        { url: 'one-bernam-function-room.jpg' }, 
-        { url: 'One-bernam-garden-deck.jpg' },
-        { url: 'One-Bernam-hammock-1024x611.jpg' }, 
-        { url: 'one-bernam-landscape.jpg' }, 
-        { url: 'One-bernam-living-room.jpg' },
-        { url: 'One-Bernam-pool.jpg' }, 
-        { url: 'One-Bernam-pool-deck.jpg' }, 
+        { url: 'Gazania__Clubhouse-1024x576.jpg' }, 
+        { url: 'Gazania_50m_Lap_Pool_Water_Wall-1024x576.jpg' },
+        { url: 'Gazania_50m_Lap_Pool-1024x576.jpg' }, 
+        { url: 'Gazania_Grand_Arrival_Plaza-1-1024x576.jpg' },
+        { url: 'Gazania_Hero_Shot-1-1024x576.jpg' }, 
+        { url: 'Gazania_outdoor_Fitness_area_Kids_Playground_and_pavilion-1024x576.jpg' }, 
+        { url: 'Gazania_Water_Wall-1024x576.jpg' },
+        { url: 'the-gazania-singapore-spa-pool-1024x576.jpg' }, 
+        { url: 'the-gazania-condo-playground-singapore-1024x576.jpeg' }, 
       ],
     }
   },

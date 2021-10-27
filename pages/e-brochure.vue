@@ -8,14 +8,14 @@
     <section>
       <div class="max-w-6xl px-4 py-12 mx-auto space-y-6">
         <div class="flex justify-center">
-          <NuxtLink to="/public/pdf/OB-E-Brochure.pdf" target="_blank"
+          <NuxtLink to="/public/pdf/The Gazania - E-Brochure Full.pdf" target="_blank"
             ><img
-              src="~assets/img/cover-one-bernam.jpg"
+              src="~assets/img/the-gazania-ebrochure.png"
               width="500"
-              alt="Normanton Park e-Brochure"
+              alt="The Gazania e-Brochure"
           /></NuxtLink>
         </div>
-        <h3 class="text-center sm:text-xl">Do <strong>"click"</strong> the above picture to view One Bernam E-Brochure</h3>
+        <h3 class="text-center sm:text-xl">Do <strong>"click"</strong> the above picture to view The Gazania E-Brochure</h3>
         <section class="py-6">
           <NuxtLink
             to="/elevation-chart"
