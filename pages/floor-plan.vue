@@ -45,9 +45,9 @@
         </div>
         <div class="space-y-4">
           <h3 class="text-xl font-semibold sm:text-2xl text-center">
-            4 Bedroom Mezzanice
+            4 Bedroom Mezzanine
           </h3>
-          <BedroomImageModal :bed-room-prop="FourBedroomMezzanice" />
+          <BedroomImageModal :bed-room-prop="FourBedroomMezzanine" />
         </div>
         <div class="space-y-4">
           <h3 class="text-xl font-semibold sm:text-2xl text-center">
@@ -128,7 +128,7 @@ export default {
         { title: 'Type D3B', url: 'SmartSelect_20190413-172449_Adobe-Acrobat.jpg' },
         { title: 'Type D6A', url: 'SmartSelect_20190413-172542_Adobe-Acrobat.jpg' },
         ],
-        FourBedroomMezzanice: [
+        FourBedroomMezzanine: [
         { title: 'Type D1CM', url: 'SmartSelect_20190413-172625_Adobe-Acrobat.jpg' },
         { title: 'Type D6AM', url: 'SmartSelect_20190413-172719_Adobe-Acrobat.jpg' },
         ],
