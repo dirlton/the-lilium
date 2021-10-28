@@ -63,7 +63,7 @@
                           uppercase
                         "
                       >
-                        Size
+                        Size (SQFT)
                       </th>
                       <th
                         scope="col"

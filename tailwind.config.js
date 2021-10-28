@@ -28,6 +28,10 @@ module.exports = {
           700: '#7E5D3B',
           900: '#543E28',
         },
+        gold:{
+          100: '#FFD700',
+          200: '#D1B000',
+        }
       },
       maxWidth: {
         '8xl': '88rem',
