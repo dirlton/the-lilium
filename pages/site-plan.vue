@@ -8,8 +8,8 @@
     <section>
       <div class="max-w-6xl px-4 py-12 mx-auto space-y-6">
         <img
-          src="~assets/img/gazania-site-plan.jpg"
-          alt="Site Plan L1"
+          src="~assets/img/The-Lilium-Site-Plan-Singapore.jpg"
+          alt="Site Plan The Lilium"
           class="mx-auto"
         />
         <section class="py-6">

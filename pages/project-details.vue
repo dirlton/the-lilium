@@ -12,7 +12,7 @@
             <div class="grid grid-cols-1 gap-6 sm:grid-cols-2">
               <div>
                 <label class="block text-gray-500">Developer</label>
-                <p>SingHaiyi Huajiang Sun Pte. Ltd.</p>
+                <p>Singhaiyi Huajiang Amber Pte. Ltd.</p>
               </div>
               <div>
                 <label class="block text-gray-500">Location</label>
@@ -24,7 +24,7 @@
               </div>
               <div>
                 <label class="block text-gray-500">Site Area</label>
-                <p>146,046 sqft</p>
+                <p>Approx. 5,104.30 sqm / 54,942 sqft</p>
               </div>
               <div>
                 <label class="block text-gray-500">Solicitor</label>
@@ -32,7 +32,7 @@
               </div>
               <div>
                 <label class="block text-gray-500">Project Account No.</label>
-                <p>712-599323-001</p>
+                <p>OCBC Ltd. for Project Account No. 712-600139-001</p>
               </div>
               <div>
                 <label class="block text-gray-500">Architect</label>
@@ -52,36 +52,53 @@
               </div>
               <div>
                 <label class="block text-gray-500">Address</label>
-                <p>5, 7, 9, 11, 15, 17, 19 How Sun Drive, Singapore</p>
+                <p>31, 33 How Sun Park, Singapore</p>
               </div>
               <div>
                 <label class="block text-gray-500">No. of Storeys</label>
-                <p>5 Storeys</p>
+                <p>2 Blocks of 5-Storey Residential Units</p>
               </div>
               <div>
                 <label class="block text-gray-500">Tenure</label>
                 <p>Freehold</p>
               </div>
               <div>
+                <label class="block text-gray-500">No. of Lifts</label>
+                <p>2 Passenger Lifts for Each Block</p>
+              </div>
+              <div>
+                <label class="block text-gray-500">Bicycle Lots</label>
+                <p>20</p>
+              </div>
+              <div>
+                <label class="block text-gray-500">Motorcycle Lots</label>
+                <p>4</p>
+              </div>
+              <div>
                 <label class="block text-gray-500">Site Use</label>
-                <p>Residential Condominium</p>
+                <p>Residential Flat Developement</p>
               </div>
               <div>
                 <label class="block text-gray-500">Total No. of Units</label>
-                <p>250 Residential Units</p>
+                <p>80 Residential Units</p>
               </div>
               <div>
                 <label class="block text-gray-500">No. of Car Park Lots</label>
-                <p>255 Excluding 7 Handicapped Lots</p>
+                <p>80 Parking Lots and 2 Accessible Lots</p>
+              </div>
+              <div>
+                <label class="block text-gray-500">Security</label>
+                <p>24 Hours Security Guard</p>
               </div>
               <div>
                 <label class="block text-gray-500">Expected Date of TOP</label>
-                <p>July 2022</p>
+                <p>31 December 2021</p>
               </div>
               <div>
                 <label class="block text-gray-500">Expected Date of Legal Completion</label>
-                <p>TBA</p>
+                <p>31 December 2024</p>
               </div>
+              
             </div>
           </div>
           <div class="py-4 italic text-center text-gray-500">

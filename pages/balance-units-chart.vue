@@ -10,7 +10,7 @@
         <div class="space-y-2 text-center">
           <p class="text-xl">
             <span class="font-medium text-theme-500">Last updated</span>:
-            28-10-2021
+            29-10-2021
           </p>
           <p class="max-w-2xl mx-auto">
             Disclaimer: The Balance Units Chart displayed here is for reference
@@ -29,7 +29,7 @@
         </div>
         <div class="text-center">
           <NuxtLink
-            to="/public/pdf/gazania-balance-chart.pdf"
+            to="/public/pdf/the-lilium-balance-units-chart-singapore.pdf"
             target="_blank"
             class="font-medium hover:underline"
           >
@@ -78,7 +78,7 @@
 <script>
 export default {
   data() {
-    return { url: process.env.BASE_URL ? '/' + process.env.BASE_URL + '/public/pdf/gazania-balance-chart.pdf': '/public/pdf/gazania-balance-chart.pdf'}
+    return { url: process.env.BASE_URL ? '/' + process.env.BASE_URL + '/public/pdf/the-lilium-balance-units-chart-singapore.pdf': '/public/pdf/the-lilium-balance-units-chart-singapore.pdf'}
   },
 }
 </script>

@@ -53,15 +53,12 @@ export default {
   data() {
     return {
       imageUrl: [
-        { url: 'Gazania__Clubhouse-1024x576.jpg' }, 
-        { url: 'Gazania_50m_Lap_Pool_Water_Wall-1024x576.jpg' },
-        { url: 'Gazania_50m_Lap_Pool-1024x576.jpg' }, 
-        { url: 'Gazania_Grand_Arrival_Plaza-1-1024x576.jpg' },
-        { url: 'Gazania_Hero_Shot-1-1024x576.jpg' }, 
-        { url: 'Gazania_outdoor_Fitness_area_Kids_Playground_and_pavilion-1024x576.jpg' }, 
-        { url: 'Gazania_Water_Wall-1024x576.jpg' },
-        { url: 'the-gazania-singapore-spa-pool-1024x576.jpg' }, 
-        { url: 'the-gazania-condo-playground-singapore-1024x576.jpeg' }, 
+        { url: 'The-Lilium-Perspective-1-1024x504.jpg' }, 
+        { url: 'The-Lilium-Perspective-2-1024x456.jpg' },
+        { url: 'The-Lilium-Perspective-3-1024x366.jpg' }, 
+        { url: 'The-Lilium-Perspective-4-1024x456.jpg' },
+        { url: 'The-Lilium-Perspective-5-1024x456.jpg' }, 
+        { url: 'The-Lilium-Perspective-6-1024x456.jpg' }, 
       ],
     }
   },

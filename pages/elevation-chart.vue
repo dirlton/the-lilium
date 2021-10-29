@@ -17,7 +17,7 @@
         </div>
         <div class="text-center">
           <NuxtLink
-            to="/public/pdf/gazania-elevation-chart.pdf"
+            to="/public/pdf/The-Lilium-Elevation-Chart-Singapore.pdf"
             target="_blank"
             class="font-medium hover:underline"
           >
@@ -66,7 +66,7 @@
 <script>
 export default {
   data() {
-     return { url: process.env.BASE_URL ? '/' + process.env.BASE_URL + '/public/pdf/gazania-elevation-chart.pdf': '/public/pdf/gazania-elevation-chart.pdf'}
+     return { url: process.env.BASE_URL ? '/' + process.env.BASE_URL + '/public/pdf/The-Lilium-Elevation-Chart-Singapore.pdf': '/public/pdf/The-Lilium-Elevation-Chart-Singapore.pdf'}
   },
 }
 </script>

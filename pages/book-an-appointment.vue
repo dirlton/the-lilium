@@ -6,12 +6,12 @@
       </div>
     </div>
     <div class="py-12 space-y-6">
-      <section class="max-w-4xl px-4 mx-auto space-y-8 divide-y">
+      <section class="max-w-4xl px-4 mx-auto space-y-8 divide-y text-justify">
         <div class="space-y-6">
           <p>
             It is important to only engage the Official Direct Developer Team to
             assist you on all matters related to the new launch condominium at
-            <b>The Gazania</b>. There are several complex procedures and key factors
+            <b>The Lilium</b>. There are several complex procedures and key factors
             to consider before committing to purchase a unit. Rest assured that
             all our representatives are certified, well-trained and committed to
             delivering and value-add.
@@ -24,7 +24,7 @@
             >. There is no commission required to be paid.
           </p>
           <p>
-            Viewing of <b>The Gazania Showflat</b> is by appointment only. Register
+            Viewing of <b>The Lilium Showflat</b> is by appointment only. Register
             for an appointment below. Our friendly appointed representative will
             get back to you as soon as we can.
           </p>
