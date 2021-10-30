@@ -357,12 +357,28 @@
                       hover:bg-theme-100
                     "
                   >
-                    Bidadari Park
+                    Payar Lebar Airbase
                   </NuxtLink>
                 </li>
 				<li>
                   <NuxtLink
-                    to="/payar-lebar"
+                    to="/bidadari-park"
+                    class="
+                      inline-block
+                      w-full
+                      px-2
+                      py-2
+                      menu-item
+                      text-theme-900
+                      hover:bg-theme-100
+                    "
+                  >
+                    Bidadari Park
+                  </NuxtLink>
+                </li>
+                <li>
+                  <NuxtLink
+                    to="/cross-island-line"
                     class="
                       inline-block
                       w-full
@@ -374,22 +390,6 @@
                     "
                   >
                     Cross Island Line (CRL)
-                  </NuxtLink>
-                </li>
-                <li>
-                  <NuxtLink
-                    to="/payar-lebar"
-                    class="
-                      inline-block
-                      w-full
-                      px-2
-                      py-2
-                      menu-item
-                      text-theme-900
-                      hover:bg-theme-100
-                    "
-                  >
-                    Paya Lebar Airbase
                   </NuxtLink>
                 </li>
                 <li>

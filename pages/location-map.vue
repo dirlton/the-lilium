@@ -7,14 +7,14 @@
     </div>
     <section>
       <div class="max-w-6xl px-4 py-12 mx-auto space-y-6">
-        <NuxtLink to="/public/pdf/location-map-gazania.pdf" target="_blank"
+        <NuxtLink to="/public/pdf/location-map-lilium.pdf" target="_blank"
             ><img
-              src="~assets/img/location-map-gazania.jpg"
+              src="~assets/img/location-map-lilium.png"
               class="mx-auto"
               alt="The Gazania Location Map"
           /></NuxtLink>
           
-          <h3 class="text-center sm:text-xl">Do <strong>"click"</strong> the above picture to view The Gazania Location Map</h3>
+          <h3 class="text-center sm:text-xl">Do <strong>"click"</strong> the above picture to view The Lilium Location Map</h3>
 
         <h3 class="text-xl font-semibold sm:text-2xl">
           Amenities @ The Gazania

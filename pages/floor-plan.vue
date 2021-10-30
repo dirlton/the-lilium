@@ -41,7 +41,7 @@
           <h3 class="text-xl font-semibold sm:text-2xl text-center">
             4 Bedroom + Study
           </h3>
-          <BedroomImageModal :bed-room-prop="FourBedroomMezzanine" />
+          <BedroomImageModal :bed-room-prop="FourBedroomStudy"/>
         </div>
         <section class="py-6">
           <NuxtLink
@@ -88,24 +88,29 @@ export default {
   data() {
     return {
       TwoBedroom: [
-        { title: 'Type B1', url: '0015.jpg' },
+        { title: 'Type B1', url: '2-bed-b1.png' },
       ],
       TwoBedroomStudy: [
-        { title: 'Type B6', url: '0016.jpg' },
+        { title: 'Type B2', url: '2-bed-study-b2.png' },
+        { title: 'Type B3', url: '2-bed-study-b3.png' },
       ],
       ThreeBedroom: [
-        { title: 'Type C7', url: '0017.jpg' },
+        { title: 'Type C1', url: '3bed-c1.png' },
       ],
       ThreeBedroomPremium: [
-        { title: 'Type C1', url: '0017.jpg' },
+        { title: 'Type C2', url: '3bed-c2.png' },
         ],
         FourBedroom: [
-        { title: 'Type D1A - DIC', url: '0018.jpg' },
-        { title: 'Type D1A - DIC', url: '0021.jpg' },
+        { title: 'Type D1', url: 'type-d1.png' },
+        { title: 'Type D2', url: 'type-d2.png' },
         ],
         FourBedroomStudy: [
-        { title: 'Type D1CM', url: '0019.jpg' },
-        { title: 'Type D1CM', url: '0020.jpg' },
+        { title: 'Type PH1 - Lower ', url: 'type-ph1-lower.png' },
+        { title: 'Type PH1 - Upper ', url: 'type-ph1-upper.png' },
+        { title: 'Type PH2 - Lower ', url: 'type-ph2-lower.png' },
+        { title: 'Type PH2 - Upper ', url: 'type-ph2-upper.png' },
+        { title: 'Type PH3 - Lower ', url: 'type-ph3-lower.png' },
+        { title: 'Type PH3 - Upper ', url: 'type-ph3-upper.png' },
         ],
     }
   },

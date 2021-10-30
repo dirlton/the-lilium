@@ -521,10 +521,10 @@
                               to="/payar-lebar"
                               class="inline-block w-full"
                             >
-                              Bidadari Park
+                              Payar Lebar Airbase
                             </NuxtLink>
                           </li>
-						  <li
+						              <li
                             class="
                               ml-3
                               transition
@@ -533,10 +533,10 @@
                             "
                           >
                             <NuxtLink
-                              to="/payar-lebar"
+                              to="/bidadari-park"
                               class="inline-block w-full"
                             >
-                              Cross Island Line (CRL)
+                              Bidadari Park
                             </NuxtLink>
                           </li>
                           <li
@@ -548,10 +548,10 @@
                             "
                           >
                             <NuxtLink
-                              to="/payar-lebar"
+                              to="/cross-island-line"
                               class="inline-block w-full"
                             >
-                              Payar Lebar Airbase
+                              Cross Island Line (CRL)
                             </NuxtLink>
                           </li>
                           <li
