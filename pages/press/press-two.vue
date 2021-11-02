@@ -2,41 +2,56 @@
   <div>
     <div class="py-12 select-none bg-theme-700">
       <div class="text-xl font-semibold text-center text-white sm:text-4xl">
-        Easing Singapore Property Curbs Not On Radar Says DPM Heng
+        Resale Condo Prices Maintain Upward Trend
       </div>
     </div>
     <section>
       <div class="max-w-6xl px-4 py-12 mx-auto space-y-6">
         <img
-          src="~assets/img/press/press-2.jpg"
-          alt="Easing Singapore Property Curbs Not On Radar Says DPM Heng"
+          src="~assets/img/press/press-2.0.jpg"
+          alt="Resale Condo Prices Maintain Upward Trend"
           class="mx-auto"
         />
         <br>
         <h1 class="max-w-5xl mx-auto text-justify">
-                  SINGAPORE has no immediate plans to ease property curbs, Deputy Prime Minister and Finance Minister Heng Swee Keat said on Wednesday, 
-                  amid renewed calls by developers to loosen a measure that penalises them if they fail to complete and sell new projects within five 
-                  years.
+                  The private property resale market continues to pick up, not just from the Covid-19 fallout but also from the cooling measures implemented 
+                  in 2018, with prices climbing for a fifth straight month last month. For the whole of last year, prices of resale condominiums rose 1.4 per cent, 
+                  just slightly lower than the 1.8 per cent increase in 2019, according to flash figures from real estate portal SRX Property yesterday.
                   </h1>
                   <h1 class="max-w-5xl mx-auto text-justify">
-                  “It is not on our radar at this point because we need to make sure that we stabilise the economy and we address long-term structural issues,” 
-                  Mr Heng said in a Bloomberg TV interview. Singapore imposed curbs in July 2018 to arrest house-price growth. To stop land hoarding, developers 
-                  have five years from the time of purchase of a site to build and sell all units or risk being hit with a 25 per cent levy, a measure which 
-                  developers have labelled as punitive.
+                  Last month, overall resale prices of non-landed properties went up by 0.3 per cent from the previous month. The SRX price index ended last year 
+                  at the highest level since the start of the Urban Redevelopment Authority's property price index in 1975. Resale volume fell by 5.1 per cent to 
+                  an estimated 1,236 units last month from 1,302 in November. Still, it marks the sixth consecutive month of resale volume crossing the 1,000-unit level.
                   </h1>
                   <h1 class="max-w-5xl mx-auto text-justify">
-                  The curbs have helped keep a lid on the market, with prices gaining just 0.5 per cent in the fourth quarter of 2019. Sales have also fluctuated, 
-                  with January transactions rising 15 per cent after a 54 per cent slump in December. Earlier this month, the government loosened another restriction 
-                  for some developers, exempting listed companies with a substantial connection to Singapore from the Qualifying Certificate regime. The regime requires 
-                  firms to complete development within five years and sell all units in a project within two years of its completion.
+                  Last month's sales volume is also 79.4 per cent higher than in December 2019, and 96.4 per cent more than the five-year average volumes for the month of 
+                  December. In spite of the pandemic and macroeconomic uncertainties, 10,712 resale transactions were recorded for the whole of last year, which is 18.1 per 
+                  cent higher than for 2019.
                   </h1>
                   <h1 class="max-w-5xl mx-auto text-justify">
-                    The move prompted speculation that it was the first step in unwinding the property curbs. “They are reading too much into that. In Singapore’s 
-                    context, property is not just an investment, it is a home for people and we must make sure that we get that right,” said Mr Heng. “That everyone 
-                    must feel that this is my home, this is something which I as an ordinary worker has something to look forward to.” BLOOMBERG
+                    The private resale market is benefiting from the higher number of Housing Board (HDB) flats that reached the end of their five-year minimum 
+                    occupation period (MOP) in 2019 and last year, compared with the previous 10 years, said ERA Realty head of research and consultancy Nicholas Mak.
+                  </h1>
+                  <h1 class="max-w-5xl mx-auto text-justify">
+                    He noted that about 24,500 HDB flats were eligible to be sold on the resale market last year, more than double the 10,400 that reached the end of their 
+                    MOP in 2015. "Some of these owners who sold their HDB flats to upgrade to private housing would prefer to buy completed resale properties so that they can 
+                    move in... soon after the sale of their public flats is finalised," he said. Ms Wong Siew Ying, PropNex head of research and content, said travel restrictions 
+                    due to Covid-19 may have helped boost sales.
+                  </h1>
+                  <h1 class="max-w-5xl mx-auto text-justify">
+                   "The pandemic-induced travel restrictions which kept many families in Singapore likely played a part in boosting resale volume in December, a month when market 
+                   activity is typically slow as people go on vacation abroad," she noted.
+                  </h1>
+                  <h1 class="max-w-5xl mx-auto text-justify">
+                   Ms Wong expects healthy demand for resale private homes in the outside central region (OCR) this year among buyers looking for a more spacious apartment to work from 
+                   home. The highest transacted price for a private resale flat last month was $12.2 million for a unit in Skyline @ Orchard Boulevard.
+                  </h1>
+                  <h1 class="max-w-5xl mx-auto text-justify">
+                   The highest transacted price in the city fringes was $4.3 million for a unit in Pebble Bay in Tanjong Rhu, while a unit in A Treasure Trove in Punggol was resold for 
+                   $3.2 million, the highest price in the OCR.
                   </h1>
                   <br>
-                  <h3 class="text-center"> Source: https://www.businesstimes.com.sg/real-estate/easing-singapore-property-curbs-not-on-radar-dpm-heng</h3>
+                  <h3 class="text-center"> Source: Michelle Ng, Jan 13, 2021 </h3>
                   
         <section class="py-6">
           <NuxtLink
@@ -56,7 +71,7 @@
               bg-theme-700
             "
           >
-            Continue To 2019 New Home Sales Top 10,000 Units, Up 15% From Year Ago
+            Continue To Private Home Prices Up 2.1% In Third Straight Quarterly Gain
             <svg
               fill="none"
               xmlns="http://www.w3.org/2000/svg"

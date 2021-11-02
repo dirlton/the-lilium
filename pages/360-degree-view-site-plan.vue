@@ -2,61 +2,50 @@
   <div>
     <div class="py-12 select-none bg-theme-700">
       <div class="text-xl font-semibold text-center text-white sm:text-4xl">
-        360 Degree View Site Plan
+        Virtual Tours
       </div>
     </div>
     <section>
       <div class="max-w-6xl px-4 py-12 mx-auto space-y-6">
-        <h3 class="text-xl font-semibold sm:text-2xl">One Bernam Drone Shot - Site Plans</h3>
+        <h3 class="text-xl font-semibold sm:text-2xl text-center">2 Bedroom</h3>
         <iframe 
           width="1100" 
           height="600" 
           class="mx-auto" 
-          src="https://www.mymixgo.com/AUDAX/onebernam-drone/" 
+          src="https://client.audax.com.sg/Lilium/B1/" 
           title="One Bernam" 
           frameborder="0" 
           allowfullscreen>
           </iframe>
           <br><br>
-          <h3 class="text-xl font-semibold sm:text-2xl">One Bernam Drone Shot - Standard Room One</h3>
+          <h3 class="text-xl font-semibold sm:text-2xl text-center">3 Bedroom</h3>
         <iframe 
           width="1100" 
           height="600" 
           class="mx-auto" 
-          src="https://www.mymixgo.com/AUDAX/onebernam-in/typeb2" 
+          src="https://client.audax.com.sg/Lilium/C2/" 
           title="One Bernam" 
           frameborder="0" 
           allowfullscreen>
           </iframe>
           <br><br>
-          <h3 class="text-xl font-semibold sm:text-2xl">One Bernam Drone Shot - Standard Room Two</h3>
+          <h3 class="text-xl font-semibold sm:text-2xl text-center">4 Bedroom</h3>
         <iframe 
           width="1100" 
           height="600" 
           class="mx-auto" 
-          src="https://www.mymixgo.com/AUDAX/onebernam-in/typeb4" 
+          src="https://client.audax.com.sg/Lilium/D2/" 
           title="One Bernam" 
           frameborder="0" 
           allowfullscreen>
           </iframe>
           <br><br>
-          <h3 class="text-xl font-semibold sm:text-2xl">One Bernam Drone Shot - Type BS2</h3>
+          <h3 class="text-xl font-semibold sm:text-2xl text-center">Penthouse</h3>
         <iframe 
           width="1100" 
           height="600" 
           class="mx-auto" 
-          src="https://www.mymixgo.com/AUDAX/onebernam-in/typebs2" 
-          title="One Bernam" 
-          frameborder="0" 
-          allowfullscreen>
-          </iframe>
-          <br><br>
-          <h3 class="text-xl font-semibold sm:text-2xl">One Bernam Drone Shot - Type BS4</h3>
-        <iframe 
-          width="1100" 
-          height="600" 
-          class="mx-auto" 
-          src="https://www.mymixgo.com/AUDAX/onebernam-in/typebs4" 
+          src="https://client.audax.com.sg/Lilium/PH1/" 
           title="One Bernam" 
           frameborder="0" 
           allowfullscreen>

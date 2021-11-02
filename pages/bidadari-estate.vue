@@ -49,7 +49,7 @@
               bg-theme-700
             "
           >
-            Continue To Govt Cuts Private Housing Supply From Confirmed Land Sale Sites
+            Continue To New private home sales up 57%, highest for December in 8 years: URA Data
             <svg
               fill="none"
               xmlns="http://www.w3.org/2000/svg"
