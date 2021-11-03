@@ -304,7 +304,7 @@
               class="WhatsappChat__Message-sc-1wqac52-4 kAZgZq"
             >
               <div class="WhatsappChat__Author-sc-1wqac52-3 bMIBDo">
-                The Gazania
+                The Lilium
               </div>
               <div class="WhatsappChat__Text-sc-1wqac52-2 iSpIQi">
                 Thank you for your interest in The Lilium! 👋<br /><br />What

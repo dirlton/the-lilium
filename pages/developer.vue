@@ -20,8 +20,9 @@
         </div>
         <div class="max-w-6xl px-4 mx-auto prose text-justify">
           <p>
-            The Gazania Developer, SingHaiyi Group Ltd, is a Singapore Exchange Mainboard-listed real estate firm to be a leading, 
-            well-rounded real estate corporation with demonstrated property development, investment, and management capabilities. 
+            SingHaiyi Huajiang Amber is a 50/50 shared venture between Corporate Bridge, a wholly-owned subsidiary of SingHaiYi Group, 
+            and Huajiang Properties II, a company controlled by SingHaiYi Founders Gordon and Celine Tang, the company's controlling shareholders 
+            and directors.
           </p> 
           <p> 
             SingHaiyi Group Ltd is well-known in Singapore, but it has also expanded its portfolio to include the United States, 
@@ -36,8 +37,11 @@
             "CONQUAS STAR" by the Building Construction Authority in 2018.
           </p>
           <p>
-            SingHaiyi Group Ltd is also committed to making a positive impact on our society and the lives of others. SingHaiyi Group Ltd, 
-            for example, kindly gave to the UOB HEARTBEAT RUN/WALK 2017 in support of the community's less fortunate.
+            Mr Gordon Tang started the SingHaiyi Group in 1977, and it is a Singapore-based public firm. Property development, real estate 
+            investing, and property management services are the fundamental businesses of the company. 
+            The Group's Singapore properties are Parc Clematis, The Gazania, The Lilium, 9 Penang Road, City Suites, The Vales, CityLife@Tampines,
+            and Pasir Ris One. Future homeowners of The Lilium may expect high-quality finishes because of SingHaiYi's experience and reputation 
+            for developing high-quality residences.
           </p>
         </div>
       </section>
@@ -64,10 +68,13 @@
           <!-- Start Award Statement -->
             <p class="transition text-theme-600 hover:text-gold-200 text-xl font-semibold sm:text-2xl">HIGHLY COMMENDED</p>
             <p>
-              <b>✨Best Condo Interior Design (Singapore) • 2019✨</b>
+              <b>✨Best Boutique Condo Development (High Density) (Singapore) • 2019✨</b>
             </p>
             <p>
-              <b>✨Best New Private Condo Development (Singapore) • 2019✨</b>
+              <b>✨Best Boutique Condo Interior Design (Singapore) • 2019✨</b>
+            </p>
+            <p>
+              <b>✨Best Boutique Landscape Architectural Design (Singapore) • 2019✨</b>
             </p>
             <p>
               <b>✨Best Residential Green Development (Singapore) • 2019✨</b>
@@ -82,60 +89,60 @@
         <div class="grid grid-cols-2 gap-4 sm:gap-6 sm:grid-cols-3">
           <div class="space-y-2 text-center break-words">
             <img
-              src="~assets/img/developer/track-record-1.png"
-              alt="Lake Ville"
+              src="~assets/img/developer/track-record-1.jpg"
+              alt="9 Penang Road"
               class="mx-auto rounded shadow"
             />
-            <p class="text-sm font-semibold sm:text-lg">Lake Ville</p>
+            <p class="text-sm font-semibold sm:text-lg">9 Penang Road</p>
           </div>
           <div class="space-y-2 text-center break-words">
             <img
-              src="~assets/img/developer/track-record-2.png"
-              alt="Lake Grande"
+              src="~assets/img/developer/track-record-2.jpg"
+              alt="City Suites"
               class="mx-auto rounded shadow"
             />
             <p class="text-sm font-semibold sm:text-lg">
-              Lake Grande
+              City Suites
             </p>
           </div>
           <div class="space-y-2 text-center break-words">
             <img
-              src="~assets/img/developer/track-record-3.png"
-              alt="Hallmark Residences"
+              src="~assets/img/developer/track-record-3.jpg"
+              alt="Par Clematis"
               class="mx-auto rounded shadow"
             />
             <p class="text-sm font-semibold sm:text-lg">
-              Hallmark Residences
+              Par Clematis
             </p>
           </div>
         </div>
         <div class="grid grid-cols-2 gap-4 sm:gap-6 sm:grid-cols-3">
           <div class="space-y-2 text-center break-words">
             <img
-              src="~assets/img/developer/track-record-4.png"
-              alt="Ripple Bay"
+              src="~assets/img/developer/track-record-4.jpg"
+              alt="The Gazania"
               class="mx-auto rounded shadow"
             />
-            <p class="text-sm font-semibold sm:text-lg">Ripple Bay</p>
+            <p class="text-sm font-semibold sm:text-lg">The Gazania</p>
           </div>
           <div class="space-y-2 text-center break-words">
             <img
-              src="~assets/img/developer/track-record-5.png"
-              alt="Palms@Sixth Ave"
+              src="~assets/img/developer/track-record-5.jpg"
+              alt="The Vales"
               class="mx-auto rounded shadow"
             />
             <p class="text-sm font-semibold sm:text-lg">
-              Palms@Sixth Ave
+              The Vales
             </p>
           </div>
           <div class="space-y-2 text-center break-words">
             <img
               src="~assets/img/developer/track-record-6.png"
-              alt="Sol Acres"
+              alt="Hallmark Residences"
               class="mx-auto rounded shadow"
             />
             <p class="text-sm font-semibold sm:text-lg">
-              Sol Acres
+              Hallmark Residences
             </p>
           </div>
         </div>

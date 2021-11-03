@@ -12,7 +12,7 @@
             ><img
               src="~assets/img/front-cover-the-lilium.png"
               width="500"
-              alt="The Gazania e-Brochure"
+              alt="The The Lilium e-Brochure"
           /></NuxtLink>
         </div>
         <h3 class="text-center sm:text-xl">Do <strong>"click"</strong> the above picture to view The Lilium E-Brochure</h3>

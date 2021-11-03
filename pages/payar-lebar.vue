@@ -23,7 +23,7 @@
                   spaces for people to enjoy.
                   </h1>
                   <h1 class="max-w-5xl mx-auto text-justify">
-                  This potential development of the Gazania’s neighbourhood will bring much more excitement and convenience to its community than 
+                  This potential development of the Lilium’s neighbourhood will bring much more excitement and convenience to its community than 
                   you can imagine.
                   </h1>
         <section class="py-6">

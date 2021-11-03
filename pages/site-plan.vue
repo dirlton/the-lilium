@@ -14,7 +14,7 @@
         />
         <section class="py-6">
           <NuxtLink
-            to="/floor-plan"
+            to="/360-degree-view-site-plan"
             class="
               inline-flex
               items-center
@@ -30,7 +30,7 @@
               bg-theme-700
             "
           >
-            Continue To Floor Plan 
+            Continue To The Lilium Virtual Tours 
             <svg
               fill="none"
               xmlns="http://www.w3.org/2000/svg"

@@ -102,7 +102,7 @@
             </div>
           </div>
           <div class="py-4 italic text-center text-gray-500">
-            (Project details for The Gazania may be subjected to change without prior notice)
+            (Project details for The Lilium may be subjected to change without prior notice)
           </div>
           <section class="py-6">
             <NuxtLink

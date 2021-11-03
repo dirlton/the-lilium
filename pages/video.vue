@@ -8,10 +8,11 @@
     <section>
       <div class="max-w-6xl px-4 py-12 mx-auto space-y-6">
             <iframe 
+            loop="1"
             width="1000" 
             height="600" 
             class="mx-auto"
-            src="https://www.youtube.com/embed/cqnrYOkKyyA?version=3&autoplay=1&controls=1&&showinfo=1&loop=1"  
+            src="https://www.youtube.com/embed/cqnrYOkKyyA?autoplay=1&loop=1&muted=1"  
             title="The Lilium Videos" 
             frameborder="0" 
             allow="accelerometer; 

@@ -143,7 +143,7 @@
                       <td class="px-6 py-4 whitespace-nowrap">
                       4 Bedroom + Study		
                       </td>
-                      <td class="px-6 py-4 whitespace-nowrap">PH1, PG2</td>
+                      <td class="px-6 py-4 whitespace-nowrap">PH1, PH2</td>
                       <td class="px-6 py-4 whitespace-nowrap">1,915 - 1,969</td>
                       <td class="px-6 py-4 whitespace-nowrap">$ 3,448,800</td>
                       <td class="px-6 py-4 whitespace-nowrap">$ 3,819,800</td>

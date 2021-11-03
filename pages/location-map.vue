@@ -11,13 +11,13 @@
             ><img
               src="~assets/img/location-map-lilium.png"
               class="mx-auto"
-              alt="The Gazania Location Map"
+              alt="The Lilium Location Map"
           /></NuxtLink>
           
           <h3 class="text-center sm:text-xl">Do <strong>"click"</strong> the above picture to view The Lilium Location Map</h3>
 
         <h3 class="text-xl font-semibold sm:text-2xl">
-          Amenities @ The Gazania
+          Amenities @ The Lilium
         </h3>
         <div class="p-4 space-y-3 bg-white shadow-md">
           <h4 class="text-xl font-semibold tracking-wider text-theme-600">
@@ -97,39 +97,6 @@
               <div
                 class="grid grid-cols-1 text-gray-600 sm:grid-cols-2 sm:gap-60"
               >
-                <p class="text-gray-600">Paya Lebar Quarter</p>
-                <div class="flex items-center">
-                  <div class="text-theme-500">
-                    <svg
-                      xmlns="http://www.w3.org/2000/svg"
-                      xmlns:xlink="http://www.w3.org/1999/xlink"
-                      fill="currentColor"
-                      version="1.1"
-                      x="0px"
-                      y="0px"
-                      enable-background="new 0 0 100 100"
-                      xml:space="preserve"
-                      viewBox="5.08 35.4 89.82 28.4"
-                      class="w-6 h-5"
-                    >
-                      <path
-                        d="M81,51c3.6,0,6.5,2.9,6.5,6.5c0.1,3.2-2.5,6.3-6.2,6.3c-3.5,0-6.4-2.8-6.4-6.5C74.8,53.6,77.8,51,81,51z"
-                      ></path>
-                      <path
-                        d="M23,51c3.5,0,6.3,2.7,6.3,6.4c0,3.6-2.8,6.4-6.3,6.4c-3.5,0-6.2-2.7-6.3-6.4C16.8,53.8,19.5,51,23,51z"
-                      ></path>
-                      <path
-                        d="M5.3,54.1c-0.2,0.3-0.2,0.6,0,0.9c0.3,0.6,0.5,1.1,0.7,1.7c0.1,0.1,0.1,0.3,0.2,0.4c0.3,0.2,0.4,0.6,0.5,0.9  c0.1,0.1,0.1,0.2,0.2,0.3c1.5,1.1,3.3,1.1,5.1,1.5c0.9,0.2,1.7,0.2,2.6,0.3c0.2,0,0.3-1.1,0.2-1.6c0-0.3,0.1-0.5,0.1-0.8  c0-0.1,0-0.2,0-0.2c0.1-4.6,3.6-8.2,8-8.2c3.2,0,5.9,1.8,7.2,4.5c0,0,0,0,0,0.1c0.1,0.1,0.1,0.3,0.2,0.4c0.9,2.2,0.8,4.4,0.6,4.6  c-0.2,0.8-0.4,1.7-0.5,2.3c-0.1,0.4,0.2,0.7,0.6,0.7c1.1-0.1,3.3-0.3,5.6-0.5c12.3,0,24.5-0.1,36.9-0.1c0.2-0.3,0.1-0.2,0.3-0.5  c-0.4-0.8-0.7-2.4-0.7-3.3c0.1-4.6,3.6-8.2,8-8.2c4.4,0,8,3.5,8,8.1c0,0,0,0,0,0c0,1.1-0.2,2-0.4,2.5c-0.1,0.3,0.1,0.5,0.3,0.5  c0.9,0,1.9,0,2.8-0.3c0.4-0.1,0.8-0.1,1.2-0.2c0.5-0.1,0.6-0.3,0.6-0.8c0-0.1,0-0.2,0-0.2c0.4-0.9,0.5-1.8,0.6-2.7  c0-0.2,0-0.4,0.1-0.6c0.5-0.3,0.5-0.3,0.5-0.8c0-0.5,0.1-0.9,0.1-1.4c0-0.4-0.2-0.7-0.5-0.9c-0.4-0.2-0.9-0.4-1.3-0.6  c0,0,0-0.1,0-0.2c0-0.4,0-0.9,0-1.3c0.1-1.4-0.6-2.2-1.7-2.8c-0.6-0.3-1.2-0.5-1.8-0.7c-1.3-0.3-5.7-1.5-6.7-1.7  c-1.6-0.3-3.3-0.5-5-0.7c-1.8-0.2-3.5-0.3-5.3-0.5c-0.7-0.1-1.4-0.1-2.2,0c-0.5,0-0.9-0.1-1.3-0.3c-3.4-2-12.6-6.2-13.6-6.7  c-1.7-0.8-3.6-1.1-5.4-1.4c-1.2-0.2-2.4-0.2-3.6-0.2c-4.1,0-8.2,0-12.3,0.4c-1.7,0.2-3.4,0.4-5.1,0.8c-1.8,0.4-3.6,1.3-5.3,1.9  c-2.3,0.9-4.5,2-6.8,3C15.8,42.3,12.9,43,10,43c-0.8,0-1.5,0-2.3,0c-0.2,0-0.4,0-0.6,0.1c-0.2,0.1-0.4,0.2-0.3,0.5  c0.4,1.6,0.2,3.2-0.1,4.8c-0.1,0.6-0.1,1.2-0.1,1.9c0,0.1,0,0.2,0,0.3c-0.2,0.1-0.5,0.1-0.7,0.2c-0.6,0.2-0.9,0.8-0.8,1.4  c0.1,0.5,0.2,1,0.3,1.5C5.4,53.7,5.4,53.9,5.3,54.1z M40.8,37c1.9-0.2,4.7-0.2,6.8-0.1c2,0.1,3.9,0.4,5.8,1c1.7,0.6,8.5,4.2,8.5,4.2  c0.2,0.1,0.3,0.2,0.5,0.3l0,0c-0.1,0-0.2,0-0.3,0c-0.1,0-0.2,0.1-0.4,0.2h0c-0.2-0.1-0.3-0.1-0.5-0.1c0,0,0,0,0,0  c-0.1,0-1-0.4-1.2,0.3c0,0.1-0.2,0.6-0.2,0.9c0,0.7,0.5,1.1,0.5,1.1h0c-0.1,0.2-0.2,0.4-0.3,0.6c-0.4,0-10.8-0.3-17.7-0.4l-2-7  C40.3,37.5,40.5,37,40.8,37z M22.9,42.7c0-0.6,0.8-1.2,1-1.3c0.5-0.4,2.9-1.5,6.1-2.8c2.6-1.1,6.1-1.1,7.4-1.3  c0.3,0,0.5,0.2,0.5,0.4l0.6,7c-1.4,0-13.8-0.3-14.1-0.3C24,44.4,23,43.9,22.9,42.7z"
-                      ></path>
-                    </svg>
-                    <!---->
-                  </div>
-                  <p class="ml-2 text-gray-600">8 mins</p>
-                </div>
-              </div>
-              <div
-                class="grid grid-cols-1 text-gray-600 sm:grid-cols-2 sm:gap-60"
-              >
                 <p class="text-gray-600">Paya Lebar Square</p>
                 <div class="flex items-center">
                   <div class="text-theme-500">
@@ -157,7 +124,7 @@
                     </svg>
                     <!---->
                   </div>
-                  <p class="ml-2 text-gray-600">10 mins</p>
+                  <p class="ml-2 text-gray-600">8 mins</p>
                 </div>
               </div>
               <div
@@ -189,7 +156,40 @@
                     </svg>
                     <!---->
                   </div>
-                  <p class="ml-2 text-gray-600">10 mins</p>
+                  <p class="ml-2 text-gray-600">11 mins</p>
+                </div>
+              </div>
+              <div
+                class="grid grid-cols-1 text-gray-600 sm:grid-cols-2 sm:gap-60"
+              >
+                <p class="text-gray-600">Paya Lebar Quarter</p>
+                <div class="flex items-center">
+                  <div class="text-theme-500">
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      xmlns:xlink="http://www.w3.org/1999/xlink"
+                      fill="currentColor"
+                      version="1.1"
+                      x="0px"
+                      y="0px"
+                      enable-background="new 0 0 100 100"
+                      xml:space="preserve"
+                      viewBox="5.08 35.4 89.82 28.4"
+                      class="w-6 h-5"
+                    >
+                      <path
+                        d="M81,51c3.6,0,6.5,2.9,6.5,6.5c0.1,3.2-2.5,6.3-6.2,6.3c-3.5,0-6.4-2.8-6.4-6.5C74.8,53.6,77.8,51,81,51z"
+                      ></path>
+                      <path
+                        d="M23,51c3.5,0,6.3,2.7,6.3,6.4c0,3.6-2.8,6.4-6.3,6.4c-3.5,0-6.2-2.7-6.3-6.4C16.8,53.8,19.5,51,23,51z"
+                      ></path>
+                      <path
+                        d="M5.3,54.1c-0.2,0.3-0.2,0.6,0,0.9c0.3,0.6,0.5,1.1,0.7,1.7c0.1,0.1,0.1,0.3,0.2,0.4c0.3,0.2,0.4,0.6,0.5,0.9  c0.1,0.1,0.1,0.2,0.2,0.3c1.5,1.1,3.3,1.1,5.1,1.5c0.9,0.2,1.7,0.2,2.6,0.3c0.2,0,0.3-1.1,0.2-1.6c0-0.3,0.1-0.5,0.1-0.8  c0-0.1,0-0.2,0-0.2c0.1-4.6,3.6-8.2,8-8.2c3.2,0,5.9,1.8,7.2,4.5c0,0,0,0,0,0.1c0.1,0.1,0.1,0.3,0.2,0.4c0.9,2.2,0.8,4.4,0.6,4.6  c-0.2,0.8-0.4,1.7-0.5,2.3c-0.1,0.4,0.2,0.7,0.6,0.7c1.1-0.1,3.3-0.3,5.6-0.5c12.3,0,24.5-0.1,36.9-0.1c0.2-0.3,0.1-0.2,0.3-0.5  c-0.4-0.8-0.7-2.4-0.7-3.3c0.1-4.6,3.6-8.2,8-8.2c4.4,0,8,3.5,8,8.1c0,0,0,0,0,0c0,1.1-0.2,2-0.4,2.5c-0.1,0.3,0.1,0.5,0.3,0.5  c0.9,0,1.9,0,2.8-0.3c0.4-0.1,0.8-0.1,1.2-0.2c0.5-0.1,0.6-0.3,0.6-0.8c0-0.1,0-0.2,0-0.2c0.4-0.9,0.5-1.8,0.6-2.7  c0-0.2,0-0.4,0.1-0.6c0.5-0.3,0.5-0.3,0.5-0.8c0-0.5,0.1-0.9,0.1-1.4c0-0.4-0.2-0.7-0.5-0.9c-0.4-0.2-0.9-0.4-1.3-0.6  c0,0,0-0.1,0-0.2c0-0.4,0-0.9,0-1.3c0.1-1.4-0.6-2.2-1.7-2.8c-0.6-0.3-1.2-0.5-1.8-0.7c-1.3-0.3-5.7-1.5-6.7-1.7  c-1.6-0.3-3.3-0.5-5-0.7c-1.8-0.2-3.5-0.3-5.3-0.5c-0.7-0.1-1.4-0.1-2.2,0c-0.5,0-0.9-0.1-1.3-0.3c-3.4-2-12.6-6.2-13.6-6.7  c-1.7-0.8-3.6-1.1-5.4-1.4c-1.2-0.2-2.4-0.2-3.6-0.2c-4.1,0-8.2,0-12.3,0.4c-1.7,0.2-3.4,0.4-5.1,0.8c-1.8,0.4-3.6,1.3-5.3,1.9  c-2.3,0.9-4.5,2-6.8,3C15.8,42.3,12.9,43,10,43c-0.8,0-1.5,0-2.3,0c-0.2,0-0.4,0-0.6,0.1c-0.2,0.1-0.4,0.2-0.3,0.5  c0.4,1.6,0.2,3.2-0.1,4.8c-0.1,0.6-0.1,1.2-0.1,1.9c0,0.1,0,0.2,0,0.3c-0.2,0.1-0.5,0.1-0.7,0.2c-0.6,0.2-0.9,0.8-0.8,1.4  c0.1,0.5,0.2,1,0.3,1.5C5.4,53.7,5.4,53.9,5.3,54.1z M40.8,37c1.9-0.2,4.7-0.2,6.8-0.1c2,0.1,3.9,0.4,5.8,1c1.7,0.6,8.5,4.2,8.5,4.2  c0.2,0.1,0.3,0.2,0.5,0.3l0,0c-0.1,0-0.2,0-0.3,0c-0.1,0-0.2,0.1-0.4,0.2h0c-0.2-0.1-0.3-0.1-0.5-0.1c0,0,0,0,0,0  c-0.1,0-1-0.4-1.2,0.3c0,0.1-0.2,0.6-0.2,0.9c0,0.7,0.5,1.1,0.5,1.1h0c-0.1,0.2-0.2,0.4-0.3,0.6c-0.4,0-10.8-0.3-17.7-0.4l-2-7  C40.3,37.5,40.5,37,40.8,37z M22.9,42.7c0-0.6,0.8-1.2,1-1.3c0.5-0.4,2.9-1.5,6.1-2.8c2.6-1.1,6.1-1.1,7.4-1.3  c0.3,0,0.5,0.2,0.5,0.4l0.6,7c-1.4,0-13.8-0.3-14.1-0.3C24,44.4,23,43.9,22.9,42.7z"
+                      ></path>
+                    </svg>
+                    <!---->
+                  </div>
+                  <p class="ml-2 text-gray-600">13 mins</p>
                 </div>
               </div>
             </div>
@@ -205,7 +205,7 @@
               <div
                 class="grid grid-cols-1 text-gray-600 sm:grid-cols-2 sm:gap-60"
               >
-                <p class="text-gray-600">Maris Stella High School</p>
+                <p class="text-gray-600">St Gabriel’s Secondary School</p>
                 <div class="flex items-center">
                   <div class="text-theme-500">
                     <!---->
@@ -301,7 +301,7 @@
               </div>
               <div
                 class="grid grid-cols-1 text-gray-600 sm:grid-cols-2 sm:gap-60">
-                <p class="text-gray-600">St. Gabriel’s Secondary School</p>
+                <p class="text-gray-600">Maris Stella High School</p>
                 <div class="flex items-center">
                   <div class="text-theme-500">
                     <svg
@@ -328,7 +328,7 @@
                     </svg>
                     <!---->
                   </div>
-                  <p class="ml-2 text-gray-600">6 mins</p>
+                  <p class="ml-2 text-gray-600">7 mins</p>
                 </div>
               </div>
               <div
@@ -424,7 +424,7 @@
                     </svg>
                     <!---->
                   </div>
-                  <p class="ml-2 text-gray-600">9 mins</p>
+                  <p class="ml-2 text-gray-600">10 mins</p>
                 </div>
               </div>
               <div
@@ -563,7 +563,7 @@
                       ></path>
                     </svg>
                   </div>
-                  <p class="ml-2 text-gray-600">5 mins</p>
+                  <p class="ml-2 text-gray-600">6 mins</p>
                 </div>
               </div>
               <div
@@ -596,7 +596,7 @@
                       ></path>
                     </svg>
                   </div>
-                  <p class="ml-2 text-gray-600">7 mins</p>
+                  <p class="ml-2 text-gray-600">9 mins</p>
                 </div>
               </div>
               <div
@@ -668,7 +668,7 @@
                       </g>
                       </svg>
                   </div>
-                  <p class="ml-2 text-gray-600">3 mins</p>
+                  <p class="ml-2 text-gray-600">5 mins</p>
                 </div>
               </div>
               <div
@@ -716,7 +716,7 @@
                 class="grid grid-cols-1 text-gray-600 sm:grid-cols-2 sm:gap-60"
               >
                 <p class="text-gray-600">
-                  Macpherson MRT Interchange
+                  Kovan MRT Station
                 </p>
                 <div class="flex items-center">
                   <div class="text-theme-500">
@@ -750,14 +750,14 @@
                     <rect x="45.7" y="35.8" class="st0" width="5.6" height="9"/>
                     </svg>
                   </div>
-                  <p class="ml-2 text-gray-600">2 Stops</p>
+                  <p class="ml-2 text-gray-600">2 stops</p>
                 </div>
               </div>
               <div
                 class="grid grid-cols-1 text-gray-600 sm:grid-cols-2 sm:gap-60"
               >
                 <p class="text-gray-600">
-                  Woodleigh MRT Station
+                  MacPherson MRT Interchange
                 </p>
                 <div class="flex items-center">
                   <div class="text-theme-500">
@@ -791,13 +791,13 @@
                     <rect x="45.7" y="35.8" class="st0" width="5.6" height="9"/>
                     </svg>
                   </div>
-                  <p class="ml-2 text-gray-600">2 Stops</p>
+                  <p class="ml-2 text-gray-600">2 stops</p>
                 </div>
               </div>
               <div
                 class="grid grid-cols-1 text-gray-600 sm:grid-cols-2 sm:gap-60"
               >
-                <p class="text-gray-600">Kovan MRT Station
+                <p class="text-gray-600">Woodleigh MRT Station
                 </p>
                 <div class="flex items-center">
                   <div class="text-theme-500">
@@ -831,13 +831,13 @@
                     <rect x="45.7" y="35.8" class="st0" width="5.6" height="9"/>
                     </svg>
                   </div>
-                  <p class="ml-2 text-gray-600">2 Stops</p>
+                  <p class="ml-2 text-gray-600">2 stops</p>
                 </div>
               </div>
               <div
                 class="grid grid-cols-1 text-gray-600 sm:grid-cols-2 sm:gap-60"
               >
-                <p class="text-gray-600">Potong Pasir MRT Station
+                <p class="text-gray-600">Bishan MRT Interchange
                 </p>
                 <div class="flex items-center">
                   <div class="text-theme-500">
@@ -871,7 +871,7 @@
                     <rect x="45.7" y="35.8" class="st0" width="5.6" height="9"/>
                     </svg>
                   </div>
-                  <p class="ml-2 text-gray-600">3 Stops</p>
+                  <p class="ml-2 text-gray-600">3 stops</p>
                 </div>
               </div>
               <div
@@ -917,7 +917,7 @@
               <div
                 class="grid grid-cols-1 text-gray-600 sm:grid-cols-2 sm:gap-60"
               >
-                <p class="text-gray-600">Bishan MRT Interchange
+                <p class="text-gray-600">Potong Pasir MRT Station
                 </p>
                 <div class="flex items-center">
                   <div class="text-theme-500">
@@ -952,7 +952,7 @@
                     </svg>
                     <!-- -->
                   </div>
-                  <p class="ml-2 text-gray-600">3 Stops</p>
+                  <p class="ml-2 text-gray-600">3 stops</p>
                 </div>
               </div>
             </div>
