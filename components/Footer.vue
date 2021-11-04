@@ -118,8 +118,8 @@
                     stroke-linejoin="round"
                   ></path>
                 </svg>
-                <a href="mailto:sales@thelilium.com.sg"
-                  >sales@thelilium.com.sg</a
+                <a href="mailto:sales@theliliumofficial.com.sg"
+                  >sales@theliliumofficial.com.sg</a
                 >
               </li>
             </ul>
