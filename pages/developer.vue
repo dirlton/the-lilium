@@ -1,3 +1,4 @@
+
 <template>
   <div>
     <div class="py-12 select-none bg-theme-700">
@@ -119,11 +120,11 @@
         <div class="grid grid-cols-2 gap-4 sm:gap-6 sm:grid-cols-3">
           <div class="space-y-2 text-center break-words">
             <img
-              src="~assets/img/developer/track-record-4.jpg"
+              src="~assets/img/developer/track-record-4.png"
               alt="The Gazania"
               class="mx-auto rounded shadow"
             />
-            <p class="text-sm font-semibold sm:text-lg">The Gazania</p>
+            <p class="text-sm font-semibold sm:text-lg">Ripple Bay</p>
           </div>
           <div class="space-y-2 text-center break-words">
             <img

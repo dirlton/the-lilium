@@ -1,3 +1,4 @@
+
 <template>
   <div>
     <div class="py-12 select-none bg-theme-700">
@@ -38,7 +39,7 @@
         </div>
         <section class="py-6">
           <NuxtLink
-            to="/serangoon-ura-masterplan"
+            to="/gazania/project-details"
             class="
               inline-flex
               items-center
@@ -54,7 +55,7 @@
               bg-theme-700
             "
           >
-            Continue To Serangoon URA Master Plan
+            Continue To The Gazania Project Details
             <svg
               fill="none"
               xmlns="http://www.w3.org/2000/svg"

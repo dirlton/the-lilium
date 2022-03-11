@@ -4,9 +4,11 @@ export default {
 
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
-  router: {
-    base: '/the-lilium',
-  },
+
+  /*Add google analytisc
+  googleAnalytics: {
+    id: 'UA-214531364-1'
+  }, */
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
@@ -44,13 +46,17 @@ export default {
   buildModules: [
     // https://go.nuxtjs.dev/eslint
     '@nuxtjs/eslint-module',
+    //'@nuxtjs/google-analytics',
     // https://go.nuxtjs.dev/tailwindcss
     '@nuxtjs/tailwindcss',
     '@nuxtjs/dotenv',
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
-  modules: ['nuxt-flatpickr'],
+  modules: ['nuxt-flatpickr','@nuxtjs/gtm'],
+  gtm:{
+    id:'GTM-MCQ6BRZ'
+  },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {

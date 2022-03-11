@@ -459,6 +459,191 @@
                       </div>
                     </div>
                     <div>
+                      <div class="cursor-pointer" @click.prevent="tgMenuClick">
+                        <div
+                          class="
+                            flex
+                            items-center
+                            justify-between
+                            w-full
+                            px-2
+                            py-1
+                            font-medium
+                            rounded
+                            bg-theme-100
+                            hover:text-theme-900 hover:bg-theme-200
+                          "
+                        >
+                          <p>The Gazania</p>
+                          <svg
+                            fill="currentColor"
+                            viewBox="0 0 24 24"
+                            class="w-5 h-5 transition transform rotate-180"
+                          >
+                            <path
+                              d="M18.707 15.707a1 1 0 01-1.414 0L12 10.414l-5.293 5.293a1 1 0 01-1.414-1.414l6-6a1 1 0 011.414 0l6 6a1 1 0 010 1.414z"
+                            ></path>
+                          </svg>
+                        </div>
+                        <ul
+                          class="py-2 space-y-2 text-gray-600"
+                          :style="
+                            theGazaniaSubmenu
+                              ? 'display: block'
+                              : 'display: none'
+                          "
+                        >
+                          <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/gazania/project-details"
+                              class="inline-block w-full"
+                              >Project Details</NuxtLink
+                            >
+                          </li>
+                          <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/gazania/location-map"
+                              class="inline-block w-full"
+                              >Location Map</NuxtLink
+                            >
+                          </li>
+                          <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/gazania/site-plan"
+                              class="inline-block w-full"
+                              >Site Plan</NuxtLink
+                            >
+                          </li>
+						  <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/gazania/360-degree-view-site-plan"
+                              class="inline-block w-full"
+                              >Virtual Tour</NuxtLink
+                            >
+                          </li>
+                          <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/gazania/floor-plan"
+                              class="inline-block w-full"
+                              >Floor Plan</NuxtLink
+                            >
+                          </li>
+                          <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink to="/gazania/pricing" class="inline-block w-full"
+                              >Pricing</NuxtLink
+                            >
+                          </li>
+                          <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink to="/gazania/gallery" class="inline-block w-full"
+                              >Gallery</NuxtLink
+                            >
+                          </li>
+                          <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink to="/gazania/video" class="inline-block w-full"
+                              >Video</NuxtLink
+                            >
+                          </li>
+                          <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/gazania/e-brochure"
+                              class="inline-block w-full"
+                              >E-Brochure</NuxtLink
+                            >
+                          </li>
+                          <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink to="/gazania/elevation-chart" class="inline-block w-full"
+                              >Elevation Chart</NuxtLink
+                            >
+                          </li>
+                          <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/gazania/balance-units-chart"
+                              class="inline-block w-full"
+                            >
+                              Balance Units Chart
+                            </NuxtLink>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                    <div>
                       <div
                         class="cursor-pointer"
                         @click.prevent="serangoonMenuClick"
@@ -887,6 +1072,7 @@ export default {
     return {
       menuIsActive: false,
       theLiliumSubmenu: false,
+      theGazaniaSubmenu: false,
       serangoonSubmenu: false,
       pressSubmenu:false,
       financingSubmenu: false,
@@ -900,6 +1086,9 @@ export default {
   methods: {
     menuClick() {
       this.menuIsActive = !this.menuIsActive
+    },
+    tgMenuClick() {
+      this.theGazaniaSubmenu = !this.theGazaniaSubmenu
     },
     tlMenuClick() {
       this.theLiliumSubmenu = !this.theLiliumSubmenu
@@ -915,4 +1104,14 @@ export default {
     },
   },
 }
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9PDH1ML1EE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-9PDH1ML1EE');
 </script>

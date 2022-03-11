@@ -57,7 +57,7 @@
                   <h3 class="text-center">Source: Grace Leong, Oct 16, 2019</h3>
         <section class="py-6">
           <NuxtLink
-            to="/financing/stamp-duty"
+            to="/press/press-six"
             class="
               inline-flex
               items-center
@@ -73,7 +73,7 @@
               bg-theme-700
             "
           >
-            Continue To Stamp Duty
+            Continue To Govt Cuts Private Housing Supply From Confirmed Land Sale Sites : Straight Times
             <svg
               fill="none"
               xmlns="http://www.w3.org/2000/svg"

@@ -92,10 +92,10 @@
       <div class="max-w-6xl px-4 mx-auto">
         <div class="py-10 space-y-1 text-center text-white">
           <h3 class="text-xl font-semibold sm:text-2xl tracking-widest">
-            The Lilium
+            The Lilium &amp; The Gazania
           </h3>
           <h4 class="text-xl font-medium">
-            Official Website By SingHaiyi Huajiang Amber Pte. Ltd.
+            Official Website By SingHaiyi Huajiang Pte. Ltd.
           </h4>
         </div>
       </div>
